@@ -12,13 +12,16 @@
 <h4>Dinsdag</h4>
 <ul>
   <li>Schets gemaakt en onderzoek gedaan naar sveltekit</li>
-  <li>*Foto's van schets toevoegen*</li>
 </ul>
 
 <h4>Woensdag</h4>
 <ul>
-  <li>Schets gekozen</li>
-  <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/issues/3">> Zie issue voor onze schetsen</a></li>
+  <li>
+    Schets gekozen
+    <ul>
+      <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/issues/3">Zie issue voor onze schetsen</a></li>
+    </ul>
+  </li>
   <li>Schets uitgewerkt (Robin)</li>
   <li>Taken verdeeld, d.m.v. componenten te verdelen</li>
 </ul>
@@ -27,7 +30,6 @@
 <ul>
   <li>Aan mijn component gewerkt brief formulier en aan mijn eigen visitekaartje begonnen, setup Sveltekit vooral neerzetten.</li>
   <img width="692" alt="screenshot van het brief formulier" src="https://github.com/user-attachments/assets/d4b3ee10-4da3-431a-b924-3989d6baef98">
-
 </ul>
 
 <h4>Vrijdag</h4>
