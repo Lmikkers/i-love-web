@@ -1,4 +1,9 @@
 <h1>I love WEB sprint 13</h1>
+<ul>
+  <li><a href="">Week 1</a></li>
+  <li><a href="">Week 2</a></li>
+  <li><a href="">Week 3</a></li>
+</ul>
 
 <h2>Week 1</h2>
 <h3>Leervragen</h3>
@@ -70,17 +75,17 @@
 
 
 
-<h3>Aantekeningen</h3>
-📅 3 sept
-Aantekeningen van de presentatie over `Svelte` en `Svelte Kit` van Justus. 
+<h2>Aantekeningen</h2>
+<em>📅 3 sept</em>
+<p>Aantekeningen van de presentatie over `Svelte` en `Svelte Kit` van Justus.</p>
 
-### Client side rendering uitzetten:
+<h3>Client side rendering uitzetten:</h3>
 > Export let car = false
 
 `(+ page.js in de root van de route folder) `
 
 
-### Mapjes svelte uitleg:
+<h3>Mapjes svelte uitleg:</h3>
 **Static** is public map (client side) 
 - CSS >  global.css
 
@@ -107,42 +112,74 @@ Npm run dev (server starten)
 Css definiëren per pagina
 
 
-### Data ophalen:
+<h3>Data ophalen:</h3>
 Export let data (in je `+page.svelte`) (haalt data op)
 
 `+page.server.js -> fetchjson -> functie load -> await -> return { persons: persons}`
 
 In je routes mapje bijv. `[id] -> page.server.js + page.svelte -> filters zoals persons/id`
 
-### Routes aanmaken
+<h3>Routes aanmaken</h3>
 Als je een map aanmaakt in het mapje routes met een page bestand maakt ie een route
 In je `page.server.js` kan je data sturen naar deze page bestanden
 
 
-### Svelte installatie
-* npm create svelte@latest
-* Welcome to SvelteKit!
-* │
-* ◇  Where should we create your project?
-* │    (hit Enter to use current directory)
-* ◇  Directory not empty. Continue?
-* │  Yes
-* ◇  Which Svelte app template?
-* │  Skeleton project
-* ◇  Add type checking with TypeScript?
-* │  No
-* ◇  Select additional options (use arrow keys/space bar)
-* │  none
-* └  Your project is ready!
+<h3>Svelte installatie</h3>
+<p>Open de terminal en volg onderstaande om een Sveltekit project aan te maken</p>
+<ol>
+  <li>
+    npm create svelte@latest
+    <ul>
+      <li>Welcome to SvelteKit!</li>
+    </ul>
+  </li>
+  <li>
+    Where should we create your project?
+    <ul>
+      <li>(hit Enter to use current directory)</li>
+    </ul>
+  </li>
+  <li>
+    Directory not empty. Continue?
+    <ul>
+      <li>Yes</li>
+    </ul>
+  </li>
+  <li>
+    Which Svelte app template?
+    <ul>
+      <li>Skeleton project</li>
+    </ul>
+  </li>
+  <li>
+    Add type checking with TypeScript?
+    <ul>
+      <li>No</li>
+    </ul>
+  </li>
+  <li>
+    Select additional options (use arrow keys/space bar)
+    <ul>
+      <li>none</li>
+    </ul>
+  </li>
+  <li>Your project is ready! (KLAAR)</li>
+</ol>
+
+
+
 
 <hr>
+
+
+
 
 <h2>Week 2</h2>
 <h3>Leervragen</h3>
 <ol>
   <li>Hoe kan ik het beste omgaan met Sveltekit en als ik iets niet snap dit dan opzoeken?</li>
   <li>Hoe werkt het uitladen van data van de API via Sveltekit?</li>
-  <li>Hoe zet ik javascript in Sveltekit? In de +page.svelte bijvoorbeeld?</li>
+  <li>Hoe weet ik nou of ik een beetje bijloop? Aangezien de presentaties niet meer worden gedeeld en hoe kan ik dit goed bijhouden?</li>
 </ol>
 
 <h3>Week planning van wat ik heb gedaan:</h3>
