@@ -18,6 +18,7 @@
 <h4>Woensdag</h4>
 <ul>
   <li>Schets gekozen</li>
+  <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/issues/3">> Zie issue voor onze schetsen</a></li>
   <li>Schets uitgewerkt (Robin)</li>
   <li>Taken verdeeld, d.m.v. componenten te verdelen</li>
 </ul>
@@ -25,6 +26,8 @@
 <h4>Donderdag</h4>
 <ul>
   <li>Aan mijn component gewerkt brief formulier en aan mijn eigen visitekaartje begonnen, setup Sveltekit vooral neerzetten.</li>
+  <img width="692" alt="screenshot van het brief formulier" src="https://github.com/user-attachments/assets/d4b3ee10-4da3-431a-b924-3989d6baef98">
+
 </ul>
 
 <h4>Vrijdag</h4>
@@ -37,6 +40,8 @@
       <li><a href="https://github.com/nmiaa/your-tribe-profile-card/issues">Issue Mia</a></li>
     </ul>
   </li>
+  <li>Met groepje gezeten en onze componenten gepusht</li>
+  <li><a href="https://github.com/fdnd-task/your-tribe-for-life-squad-page/commit/da2301c2dfc7db790e0b8db3f42ae31b7fe23d7f">Zie mijn push/ commit</a></li>
   <li>
     Feedback geven aan Squadpagina jaar 2
     <ul>
