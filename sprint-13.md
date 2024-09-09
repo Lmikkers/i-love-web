@@ -53,9 +53,9 @@
     We hebben met zn alle ideeën besproken voor onze eigen visitekaartje. We hebben onze ideeën voor onze visitekaartje in onze eigen Github gezet als issue, we gaan elkaar feedback geven op het idee en ontwerp. <a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/issues/1">Mijn issue/ ideeën voor ontwerp</a>
     <ul>
       <li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/1#issuecomment-2337616494">Feedback Yu jing</a></li>
-      <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-profile-card/issues/1#issuecomment-2337619343"></a>Feebdack Kaan</li>
-      <li><a href="https://github.com/Robin1224/your-tribe-for-life-profile-card/issues/1#issuecomment-2337623496"></a>Feedback Robin</li>
-      <li><a href=""></a>Feedback Koen (nog geven)</li>
+      <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-profile-card/issues/1#issuecomment-2337619343">Feebdack Kaan</a></li>
+      <li><a href="https://github.com/Robin1224/your-tribe-for-life-profile-card/issues/1#issuecomment-2337623496">Feedback Robin</a></li>
+      <li><a href="">Feedback Koen (nog geven)</a></li>
     </ul>
   </li>
 </ul>
