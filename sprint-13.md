@@ -1,7 +1,7 @@
 <h1>I love WEB sprint 13</h1>
 <ul>
   <li><a href="#week1">Week 1</a></li>
-  <li><a href="">Week 2</a></li>
+  <li><a href="#week2">Week 2</a></li>
   <li><a href="">Week 3</a></li>
 </ul>
 
@@ -174,7 +174,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 
 
-<h2>Week 2</h2>
+<h2 id="week2">Week 2</h2>
 <h3>Leervragen</h3>
 <ol>
   <li>Hoe kan ik het beste omgaan met Sveltekit en als ik iets niet snap dit dan opzoeken?</li>
