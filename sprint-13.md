@@ -110,6 +110,5 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 * ◇  Select additional options (use arrow keys/space bar)
 * │  none
 * └  Your project is ready!
-***
 
 <hr>
