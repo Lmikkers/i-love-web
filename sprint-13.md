@@ -47,5 +47,69 @@
 </ul>
 
 <h3>Aantekeningen</h3>
+📅 3 sept
+Aantekeningen van de presentatie over `Svelte` en `Svelte Kit` van Justus. 
+
+### Client side rendering uitzetten:
+> Export let car = false
+
+`(+ page.js in de root van de route folder) `
+
+
+### Mapjes svelte uitleg:
+**Static** is public map (client side) 
+- CSS >  global.css
+
+**SRC** map meest belangrijkst > daar gebeurd het meeste in 
+
+
+Handig om te weten
+``` html
+<body data-sveltekit-preload-data=“hover”>
+      %Sveltekit.body%
+</body>
+```
+
+> gebruikservaring is beter en lazy loading staat aan
+
+**Routes** > daar staan alle pagina’s
+**Lib** > shorthand voor library, daar staan de componenten in, voor hergebruik van componenten.
+
+`+page.svelte` -> lijkt op `ejs` -> hier combineer je data met html
+In dit `+page.svelte` bestand krijg je `html + css + js`
+
+Npm run dev (server starten)
+
+Css definiëren per pagina
+
+
+### Data ophalen:
+Export let data (in je `+page.svelte`) (haalt data op)
+
+`+page.server.js -> fetchjson -> functie load -> await -> return { persons: persons}`
+
+In je routes mapje bijv. `[id] -> page.server.js + page.svelte -> filters zoals persons/id`
+
+### Routes aanmaken
+Als je een map aanmaakt in het mapje routes met een page bestand maakt ie een route
+In je `page.server.js` kan je data sturen naar deze page bestanden
+
+
+### Svelte installatie
+* npm create svelte@latest
+* Welcome to SvelteKit!
+* │
+* ◇  Where should we create your project?
+* │    (hit Enter to use current directory)
+* ◇  Directory not empty. Continue?
+* │  Yes
+* ◇  Which Svelte app template?
+* │  Skeleton project
+* ◇  Add type checking with TypeScript?
+* │  No
+* ◇  Select additional options (use arrow keys/space bar)
+* │  none
+* └  Your project is ready!
+***
 
 <hr>
