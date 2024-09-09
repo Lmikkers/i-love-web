@@ -1,11 +1,11 @@
 <h1>I love WEB sprint 13</h1>
 <ul>
-  <li><a href="">Week 1</a></li>
+  <li><a href="#week1">Week 1</a></li>
   <li><a href="">Week 2</a></li>
   <li><a href="">Week 3</a></li>
 </ul>
 
-<h2>Week 1</h2>
+<h2 id="week1">Week 1</h2>
 <h3>Leervragen</h3>
 <ol>
   <li>Hoe kan ik Svelte kit leren en wat is dit? Hoe kan ik hier het beste mee beginnen</li>
