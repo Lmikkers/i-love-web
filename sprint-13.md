@@ -1,8 +1,14 @@
 <h1>I love WEB sprint 13</h1>
 
 <h2>Week 1</h2>
-<p>Week planning van wat ik heb gedaan:</p>
+<h3>Leervragen</h3>
+<ol>
+  <li>Hoe kan ik Svelte kit leren en wat is dit? Hoe kan ik hier het beste mee beginnen</li>
+  <li>Hoe kan ik het best een stappenplan maken voor het maken van complexere interacties</li>
+  <li>Hoe kan aan de hand van de  i-love-web, mijn bewijslast goed te laten zien en opslaan</li>
+</ol>
 
+<h3>Week planning van wat ik heb gedaan:</h3>
 <h4>Maandag</h4>
 <ul>
   <li>Squads gemaakt, groepje gevormt met Kaan, Robin, YuJing en Koen</li>
@@ -130,3 +136,24 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 * └  Your project is ready!
 
 <hr>
+
+<h2>Week 2</h2>
+<h3>Leervragen</h3>
+<ol>
+  <li>Hoe kan ik het beste omgaan met Sveltekit en als ik iets niet snap dit dan opzoeken?</li>
+  <li>Hoe werkt het uitladen van data van de API via Sveltekit?</li>
+  <li>Hoe zet ik javascript in Sveltekit? In de +page.svelte bijvoorbeeld?</li>
+</ol>
+
+<h3>Week planning van wat ik heb gedaan:</h3>
+
+<h4>Maandag</h4>
+<ul>
+  <li>Person card: Data uitgeladen van mijn id.</li>
+  <ul>
+    <li>Ik zag alleen met het pushen dat ik was vergeten eerder te pushen, dit wil ik voortaan wel gaan doen.</li>
+    <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/commit/fd847fc34a3d9a330eeea21639ab59f0b83ee49c">Zie commit</a></li>
+    <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/issues/2">Issue closed</a></li>
+  </ul>
+  
+</ul>
