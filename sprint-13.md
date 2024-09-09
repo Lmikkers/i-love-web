@@ -192,5 +192,8 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
     <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/commit/fd847fc34a3d9a330eeea21639ab59f0b83ee49c">Zie commit</a></li>
     <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/issues/2">Issue closed</a></li>
   </ul>
-  
+  <li>Ik heb een Figma workshop gevolgd van CYD, <a href="#">link naar aantekeningen</a></li>
 </ul>
+
+
+Aantekeningen
