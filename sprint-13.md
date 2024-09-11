@@ -192,8 +192,66 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
     <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/commit/fd847fc34a3d9a330eeea21639ab59f0b83ee49c">Zie commit</a></li>
     <li><a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/issues/2">Issue closed</a></li>
   </ul>
-  <li>Ik heb een Figma workshop gevolgd van CYD, <a href="#">link naar aantekeningen</a></li>
+  <li>Ik heb een Figma workshop gevolgd van CYD, <a href="#workshopFigma">link naar aantekeningen</a></li>
+  <li>
+    Daarna zijn wij als groepje bezig geweest om ideeën op te doen voor onze squad page. Wij hebben een gezamenlijke Figma aangemaakt en daarin hebben wij inspiratie geplakt.
+    <ul>
+      <li><a target="_blank" href="https://www.figma.com/design/U3B7QUtyz6JV8pEQoQMkXT/Inspiratie-squadpage?node-id=1-3&t=XTkGg2IUDcDijNSZ-1">Link naar Figma</a></li>
+    </ul>
+  </li>
+  <li>Daarna ben ik bezig geweest om componenten te ontwerpen voor de squad page, zoals: postzegel en envelop.</li>
+  <li>We hebben in het bestand mapjes aangemaakt van wat we hebben geleerd vanuit de workshop: Inspo, Design, Components en Assets.</li>
+</ul>
+
+<h4>Dinsdag</h4>
+<ul>
+  <li>Verder gewerkt aan de componenten uitwerken en een breakdown schets gemaakt.</li>
+  <li>Verder gewerkt aan mijn visitekaartje en ik heb wat schetsen gemaakt voor andere ideeën.</li>
+</ul>
+
+<h4>Woensdag</h4>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 
 
-Aantekeningen
+<h2 id="workshopFigma">Aantekeningen</h2>
+<a href="https://www.figma.com/community/file/1414605941438286466">Figma workshop van CYD document</a>
+<ul>
+  <li>Teksten uitrekken = cool</li>
+  <li>
+    Verdeel je werk d.m.v. het te verdelen in:
+    <ul>
+       <li>Inspo: Inspiratie zoeken, screenshots insta, Pinterest</li>
+      <li>Design: Hier komt het volledige design te staan, je kunt ook v1. v2 gebruiken zodat je je proces opslaat.</li>
+      <li>Components: hier zet je alle componenten neer die je nodig hebt</li>
+      <li>Assets page: Mapje voor overzicht van foto's</li>
+    </ul>
+  </li>
+  <li><b>Design system:</b> styleguide maar dan groter, kleuren, iconen, buttons, componenten</li>
+</ul>
+
+<h4>TIP: </h4>
+<ul>
+  <li>Maak in je groepje afspraken voor typografie, kleuren, etc</li>
+  <li>Voor lettertype, kun je een eigen type aanmaken: Dit kun je doen door een nieuwe text style toe te voegen , zet px erbij zodat het extra duidelijk is in de naam</li>
+</ul>
+
+<h4>Typografie en kleuren:</h4>
+<ul>
+  <li>Niet te veel font stylen</li>
+  <li>Lettersparing mee spelen</li>
+  <li>Lineheight, tenminste 1.2, 120% (spacing in % want gaat mee met tekstformaat)</li>
+</ul>
+
+<h4>Grotes artboard</h4>
+<ul>
+  <li>Mobiel 375px max</li>
+  <li>Desktop 1440px </li>
+</ul>
+
+<hr>
+
+
