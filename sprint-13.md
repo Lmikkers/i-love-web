@@ -217,8 +217,11 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 </ul>
 
 
-<h2 id="workshopFigma">Aantekeningen</h2>
-<a href="https://www.figma.com/community/file/1414605941438286466">Figma workshop van CYD document</a>
+<h2>Aantekeningen</h2>
+
+<h3 id="workshopFigma">Aantekeningen Figma workshop</h3>
+<em>📅 09 sept</em>
+<a href="https://www.figma.com/community/file/1414605941438286466">Link Figma workshop van CYD</a>
 <ul>
   <li>Teksten uitrekken = cool</li>
   <li>
