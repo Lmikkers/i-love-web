@@ -343,7 +343,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
   Bijv. Als je iets creatiefs wil doen op basis van interactie met de gebruiker. Dan kan je met client-side-js de interface verder enhancen.</p>
 
 <ul>
-  <li>`svelte:window<`/li>    
+  <li>`svelte:window`</li>    
   <li>`+page.js === export let csr = true` (Client side rendering van js aan/uitzetten)</li>    
   <li>`Static`, daar komt sveltekit niet aan</li>    
 </ul>
