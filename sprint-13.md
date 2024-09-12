@@ -334,3 +334,30 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
     }
   }
 ```
+
+<h4>Creative coding met JS 👍</h4>
+<a href="https://github.dev/joostf/squadpage-sveltekit/tree/creative-coding-csr">github repo met voorbeeld</a>
+
+<p>
+  Niet alles is op te lossen met css;<br/>
+  Bijv. Als je iets creatiefs wil doen op basis van interactie met de gebruiker. Dan kan je met client-side-js de interface verder enhancen.</p>
+
+<ul>
+  <li>`svelte:window<`/li>    
+  <li>`+page.js === export let csr = true` (Client side rendering van js aan/uitzetten)</li>    
+  <li>`Static`, daar komt sveltekit niet aan</li>    
+</ul>
+
+``` js
+ onMount(() => {
+    console.log(document) // document is defined, because it's called in the onMount function
+  })
+```
+
+<ul>
+  <li>Door `onMount` te gebruiken kun je `client side console log` gebruiken, door de `onMount`</li>
+  <li>Als je het wil doen net als vorig jaar, kun je dit doen door alles in de static folder te zetten, of om `onMount` te gebruiken.🐥</li>
+  <li>Svelte transition module <a href="https://svelte.dev/docs/svelte-transition">(svelte docs)</a> 👍</li>
+  <li>Pagina staggeren (inladen op scroll?) kan hier ook mee👽</li>
+  <li>Dingen laten zien met checkbox en svelte.fade -> <a href="https://github.dev/joostf/squadpage-sveltekit/tree/creative-coding-csr">tadaaa</a></li>
+</ul>
