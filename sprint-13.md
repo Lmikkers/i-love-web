@@ -211,9 +211,15 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 <h4>Woensdag</h4>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Herhaling van progressive enhancement gehad en uitleg gekregen over creative coding.</li>
+  <li>Geleerd hoe je een schoon Sveltekit project aanmaakt, met `fetch-node.js` en `export let cs = false`</li>
+  <li>
+    Aan squadpage verder gewerkt, in Figma wat dingen geprobeerd en een nieuwe branch aangemaakt om verder op Yu Jing haar werk te kunnen.      <ul>
+      <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/id-pagina-larrisa">Link naar nieuwe branch</a></li>
+      <li><a href="https://github.com/users/KaanKalmi/projects/10/views/1?pane=issue&itemId=78625649">Issue persoon pagina [id]</a></li>
+    </ul>
+  </li>
+  <li><a href="#progressiveEnhancement">Aantekeningen Justus: Progressive enhancement met Svelte</a></li>
 </ul>
 
 
@@ -257,4 +263,74 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 <hr>
 
+<h3 id="progressiveEnhancement">Aantekeningen Progressive enhancement met Svelte</h3>
+<em>📅 11 sept</em>
+<p><b>Enhancement:</b> Een strategie waar je gebaseerd op de browser features van de gebruiker extra dingen kan doen. Iedereen krijgt basisfunctionaliteit. Als iemand sneller internet/nieuwere browser enz. Krijgen ze een enhanced version.</p>
 
+<h4>
+  Creative coding <br/>
+  ===  <br/>
+  Progressive Enhancement (*should be) <br/>
+  === <br/>
+  content(html, kan server-side gerenderde html zijn) first
+</h4>
+
+<p><b>Progressive Enhancement:</b> content first</p>
+
+<h4>Stappenplan: voor een schoon Svelte project</h4>
+<ol>
+  <li>Maak een tijdelijk kopie van de folder van de squadpage repo</li>
+  <li>Installer een clean install van SvelteKit voor de squadpage</li>
+  <li>Voeg in /routes/+page.js deze regel code toe `export let cs = false`</li>
+  <li>Neem in /lib/fetch-node.js de code over uit hetzelfe bestand van je laatste node.js project van sprint 12</li>
+  <li>Importeer deze function in /routes/+page.server.js</li>
+  <li>Check aan de hand van het voorbeeld of je alles goed gedaan hebt</li>
+  <li>Copy / paste jullie toegevoegde svelte code terug in /route/+page.svelte</li>
+</ol>
+
+<p><b>@supports</b> > feature detection zorgt ervoor dat de pagina css blijft werken</p>
+
+<h4>Sveltekit creative coding live coding Justus</h4>
+<ul>
+  <li>Fetchjson bestand met zelfde code als die we al hebben</li>
+  <li>Routes aanmaken</li>
+  <li>+page.svelte data ophalen + checken of links geldig zijn</li>
+  <li>Svelte for vs-code, svelte intellisense, svelte snippets</li>
+</ul>
+
+``` css
+@supports (animation-timeline: scroll()) {
+    ul li {
+        view-timeline-name: --happy-scroller;
+        view-timeline-axis: inline;
+        view-timeline-inset: -10% -10%;
+        animation-range: 25% 25%;
+
+        animation: linear appear both;
+        animation-timeline: --happy-scroller;
+    }
+
+    ul li a {
+        animation: linear appear both;
+        animation-timeline: --happy-scroller;
+    }
+
+    @keyframes appear {
+        0% {
+            rotate:-10deg;
+            opacity:.1;
+            scale:.5;
+        }
+        50% {
+            opacity:1;
+            scale:1;
+            rotate:0;
+        }
+        100% {
+            opacity: .1;
+            scale:.5;
+            rotate: 10deg;
+        }
+    }
+  }
+```
