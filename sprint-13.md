@@ -220,6 +220,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
     </ul>
   </li>
   <li><a href="#progressiveEnhancement">Aantekeningen Justus: Progressive enhancement met Svelte</a></li>
+  <li>Bezig geweest met het maken van animatie <a href="https://codepen.io/MrBlank/pen/JjXxovL">Bron envelop animatie</a></li>
 </ul>
 
 
