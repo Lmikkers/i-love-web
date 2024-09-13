@@ -223,6 +223,20 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
   <li>Bezig geweest met het maken van animatie <a href="https://codepen.io/MrBlank/pen/JjXxovL">Bron envelop animatie</a></li>
 </ul>
 
+<h4>Donderdag</h4>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<h4>Vrijdag</h4>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
 
 <h2>Aantekeningen</h2>
 
