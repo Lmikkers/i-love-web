@@ -234,7 +234,24 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 <ul>
   <li></li>
   <li><a href="#weloveweb1">We <3 Web Vasilis van Gemert</a></li>
-  <li></li>
+  <li>Code review, feedback gegeven aan <a href="https://github.com/rutgerkock/your-tribe-for-life-profile-card/issues">Rutger</a> en <a href="https://github.com/amirnapoletano/SPRINT-13-your-tribe-for-life-profile-card/issues">Amirna</a></li>
+    <li><a href="feedback1">Feedback</a> gekregen van Koop en Krijn, de aantekeningen hebben we in onze Teams neergezet</li>
+</ul>
+
+<h3 id="feedback1">Feedback:</h3>
+<h4>Project Board:</h4>
+<ul>
+    <li>Readme vroeg opzetten, zodat iedereen hier aan kan meewerken tijdens het maken van het project, en zodat wanneer je er aan werkt mensen mee kunnen werken en kunnen lezen hoe ze het kunnen runnen wanneer ze bijv feedback willen geven</li>
+    <li>Probeer om bij issues te zetten wat er gedaan moet worden, en achteraf ook wat je gedaan hebt (met evt een link naar een commit)</li>
+    <li>Dan kun je uiteindelijk in retrospects verwijzen naar issues als bewijslast, en hoef je dit niet dan nog dubbelop ook in bijv een wiki te schrijven</li>
+    <li>Bewijslast op een rijtje zetten en dergelijken doen we bij retrospect, tijdens de sprints zelf gewoon alles bijhouden in issues en pull requests wat je maakt, dan maak je de portflow en dergelijken in de retrospect.</li>
+    <li>Als er taken zijn die je kan opsplitsen, vergeet er geen issue van te maken. Bijv bij design hebben we een checklist gemaakt waarin een paar elementen staan die gedesigned moeten worden, maar je kan miss beter bij ieder van deze een aparte issue maken</li>
+    <li>Je kan tags toevoegen bij issues op je projectboard om bijvoorbeeld MOSCOW te onderhouden en zo prioriteiten te kunnen stellen, of bijvoorbeeld moeilijkheidsgraad per taak bij te houden, zodat je bij te grote/moeilijke taken deze kan opsplitsen in meerdere kleinere taken. Dit helpt ook bij plannen</li>
+    <li><strong>MOSCOW op taken zetten!! dit heb je nodig voor vrijdag</strong></li>
+</ul>
+<h4>Code/design:</h4>
+<ul>
+    <li>Andersom denken bij dingen bijv verbergen of tonen, zodat als iemand javascript niet aan heeft staan, alles altijd zichtbaar is, en dit alleen dynamisch verborgen en getoond kan worden via javascript</li>
 </ul>
 
 
