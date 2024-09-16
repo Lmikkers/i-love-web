@@ -233,7 +233,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 <h4>Vrijdag</h4>
 <ul>
   <li></li>
-  <li></li>
+  <li><a href="#weloveweb1">We <3 Web Vasilis van Gemert</a></li>
   <li></li>
 </ul>
 
@@ -375,4 +375,72 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
   <li>Svelte transition module <a href="https://svelte.dev/docs/svelte-transition">(svelte docs)</a> 👍</li>
   <li>Pagina staggeren (inladen op scroll?) kan hier ook mee👽</li>
   <li>Dingen laten zien met checkbox en svelte.fade -> <a href="https://github.dev/joostf/squadpage-sveltekit/tree/creative-coding-csr">tadaaa</a></li>
+</ul>
+
+
+<hr>
+
+
+<p><strong>Vrijdag: 13 sept </strong>🦉</p>
+<h3 id="weloveweb1">We love web <a href="http://www.vasilis.nl">Vasilis</a> van Gemert</h3>
+
+<h4>Achtergrond</h4>
+<ul>
+    <li>Opgeleid als kunstenaar</li>
+    <li>Is half Grieks</li>
+    <li>Liefde met het web begon omdat ie het tof vond, toffe dingen maken en gratis.</li>
+    <li>Kan veel met het web, hij vind web van tegenwoordig erg SAAI</li>
+    <li>Maak toffe dingen en zet er alt teksten bij</li>
+    <li>Doel: laten zien dat je van alles kan maken en creatief kan zijn het web, maar gebruik wel alt tekst bv je kunt het altijd toegankelijk maken.</li>
+</ul>
+
+<h4>Pagina&rsquo;s die hij heeft gemaakt&nbsp;<br>Homepage:&nbsp;</h4>
+<ul>
+    <li>Update zijn website wanneer er iets nieuws uitkomt, zoals animaties, lettertype, css</li>
+    <li>Gemaakt toen Flexbox uitkwam om te experimenteren</li>
+    <li>CSS animaties, nieuw dan zet hij het in zijn website</li>
+</ul>
+
+<h4>Love Nonsense</h4>
+<ul>
+    <li>Favoriete website <a href="https://lovenonsense.com">https://lovenonsense.com</a><ul>
+            <li>Liefde voor onzinnige dingen</li>
+            <li>Poppetjes: 2010, is een lettertype, wat iemand heeft gemaakt &gt; nut van onzin</li>
+        </ul>
+    </li>
+</ul>
+
+<h4>Flipping things <a href="http://www.vasilis.nl/flipping-things">Vasilis/flipping-things</a></h4>
+<ul>
+    <li>Flipt schilderijen, met achterkant schilderij en voorkant</li>
+    <li>Veel kleurtjes en gekke dingen</li>
+    <li>Houdt van Eastereggs🐣</li>
+</ul>
+
+<h4>Clocks <a href="https://vasilis.nl/clocks/">allemaal klokkies</a></h4>
+<ul>
+    <li>Houdt van klokken maken: omdat het beweegt</li>
+    <li><a href="http://www.vasilis.nl/greek-time">Vasilis/greek-time</a> -&gt; klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
+    <li><a href="http://www.vasilis.nl/binary-clock">Vasilis/binary-clock</a> -&gt; nerd klok die telt in binary -&gt; dingen flippen was nieuw toen hij het maakte (3D)</li>
+    <li><a href="http://www.vasilis.nl/wowclock">Vasilis/wowclock</a> -&gt; WOW ⌚️</li>
+    <li><a href="http://www.vasilis.nl/decimal-clock">Vasilis/decimal-clock</a> -&gt; moeilijk leesbaar, leuk concept</li>
+    <li><a href="https://vasilis.nl/clocks/hsl-clock/02/">Vasilis.nl/clocks/hsl-clock/02/</a></li>
+    <li><a href="http://Vasilis.nl/clocks/pix-clock/">Vasilis.nl/clocks/pix-clock/</a> -&gt; Toegankelijkheid &gt; hij heeft van elke foto een beschrijving gemaakt voor blinde mensen</li>
+</ul>
+
+<h4>Toegankelijkheid</h4>
+<ul>
+    <li><strong>HvA nieuw schoolgebouw:&nbsp;</strong>getest 100% toegankelijk &gt; theoretisch, maar is het totaal niet.</li>
+    <li>Denk echt na en zorg ervoor dat mensen er echt iets mee kunnen</li>
+    <li><strong>Screenreader:</strong>&nbsp;<ul>
+            <li>Leest alle headings op</li>
+            <li>Houdt het kort voor screenreaders en overzichtelijk</li>
+            <li>Iconen, goede naam geven</li>
+            <li>Laat zien dat screenreaders alles op lezen, heel het menu door etc. Duurt erg lang en werkt slecht<ul>
+                    <li>Kun je oplossen door bv navigatie weg te halen</li>
+                    <li>Mensen komen voor de content</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
 </ul>
