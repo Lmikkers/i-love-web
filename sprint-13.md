@@ -225,14 +225,12 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 <h4>Donderdag</h4>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Verder gewerkt aan squadpage en visitekaartje</li>
 </ul>
 
 <h4>Vrijdag</h4>
 <ul>
-  <li></li>
+  <li>In de ochtend gewerkt aan squadpage <a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/issues/20">Link Github</a></li>
   <li><a href="#weloveweb1">We <3 Web Vasilis van Gemert</a></li>
   <li>Code review, feedback gegeven aan <a href="https://github.com/rutgerkock/your-tribe-for-life-profile-card/issues">Rutger</a> en <a href="https://github.com/amirnapoletano/SPRINT-13-your-tribe-for-life-profile-card/issues">Amirna</a></li>
     <li><a href="feedback1">Feedback</a> gekregen van Koop en Krijn, de aantekeningen hebben we in onze Teams neergezet</li>
@@ -461,3 +459,96 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
         </ul>
     </li>
 </ul>
+
+
+<hr/>
+
+<h2 id="week3">Week 3</h2>
+<h3>Leervragen</h3>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+
+<h3>Week planning van wat ik heb gedaan:</h3>
+<h4>Maandag</h4>
+<ul>
+  <li>Uitleg gekregen over <a href="#projectManagement">project management</a>, met epics, stories en tasks</li>
+  <li>Planning poker gedaan op ons project. Hierdoor hebben we een betere blik gekregen op de taken en hoeveel tijd dit ongeveer gaat kosten. We hebben ze verdeeld in hoogtes van cijfers, in mijn aantekeningen leg ik uit hoe en wat <a href="#planningPoker">planning poker</a> is.</li>
+  <li>MoSCoW, Must have, Should have, Could have and Wont have. Met deze methode hebben wij ons project board verdeeld. Door dit te doen konden we onze taken prioriseren. <a href="https://github.com/users/KaanKalmi/projects/10/views/1">ons projectboard</a></li>
+</ul>
+<h4>Dinsdag</h4>
+<ul>
+  <li></li>
+  <li></li>
+</ul>
+<h4>Woensdag</h4>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+<h2>Aantekeningen week 3</h2>
+<h3 id="projectManagement">Project management</h3>
+<h4>Epic &gt; Stories &gt; Tasks</h4>
+<h4>Epics </h4>
+<p>Een handige manier om werk te organiseren en een hi&euml;rarchie te cre&euml;ren. Het idee is om werk op te splitsen in opleverbare stukken, zodat grote projecten kunnen worden afgerond en klanten op regelmatige basis waarde krijgen. Epics helpen teams werk op te splitsen terwijl ze naar een groter doel werken.</p>
+
+<p>Epics zijn dus grote stukken werk die worden opgesplitst in kleinere taken, die vervolgens in sprints kunnen worden voltooid. Dit helpt teams om gefocust te werken en regelmatig waarde te leveren.&nbsp;</p>
+
+<p>Voorbeelden:</p>
+<ul>
+    <li>De website van ... optimaliseren in zoekmachines (Hema, kruidvat etc)</li>
+    <li>De website van &hellip; verbeteren</li>
+    <li>In een zin noemen van wat je in een project gaat doen</li>
+</ul>
+
+<p><strong>Stories:</strong></p>
+<p>Dingen die je moet doen die onder een Epic vallen<br><br>Voorbeelden:</p>
+<p>Een nieuwe e-commerce website lanceren voor&hellip;</p>
+<ul>
+    <li>Een winkelmand toevoegen</li>
+    <li>Betalingsmogelijkheid toevoegen</li>
+    <li>Een klantenserviceportal toevoegen</li>
+</ul>
+<p>Een bestaande website verbeteren voor&hellip;</p>
+<ul>
+    <li>Website sneller maken (-&gt; begin met testen)</li>
+    <li>Website gebruiksvriendelijker maken (-&gt; testen)</li>
+    <li>Website toegankelijker maken (-&gt; testen!!!)</li>
+</ul>
+<p><br><strong>User stories</strong></p>
+<ul>
+    <li>Als bezoeker, wil ik producten kunnen verwijderen uit mijn winkelmandje als ik iets gevonden heb wat beter past bij wat ik nodig heb.</li>
+    <li>Als bezoeker, wil ik producten in mijn winkelmandje kunnen doen om overzicht te houden wat ik aanschaf.</li>
+    <li>Als bezoeker, wil ik overzicht houden op het uit te geven bedrag zodat ik het gevoel heb in controle te zijn.</li>
+    <li>Betalingsmogelijkheden toevoegen</li>
+</ul>
+
+<p>Met <strong>Userstories</strong> heb je meer grip op je project</p>
+<ul>
+    <li>Kan je taken maken?</li>
+    <li>Heb je genoeg grip?</li>
+</ul>
+
+<p>Voorbeeld taken onder user story een winkelmandje toevoegen:</p>
+<ul>
+    <li>Database voor winkelmandje</li>
+    <li>Overzicht winkelmandje tonen in HTML+CSS</li>
+    <li>Producten verwijderen uit DB</li>
+</ul>
+
+<p>&mdash;&gt; Wees specifieker dan dit</p>
+<h4>Voorbeelden:</h4>
+<ul>
+    <li>Interface ontwerpen voor het verwijden van producten. (Nadenken over elementen, semantiek, enz.)</li>
+    <li>Interface ontwerpen voor het aantal producten aanpassen.</li>
+    <li>Enz.&nbsp;</li>
+</ul>
+
+<h4 id="planningPoker">Planning poker</h4>
+<p>Is een consensus-gebaseerde techniek voor het schatten. Leden van de squad geven schattingen door genummerde kaarten op tafel te leggen of op schrijven zonder hardop te zeggen.<br>Kaarten worden omgedraaid of besproken en de schattingen worden vervolgens gesproken.<br>Zo heb je als team door wat er moet gebeuren en krijg je een goed beeld van je taken.</p>
