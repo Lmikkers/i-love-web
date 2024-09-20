@@ -466,9 +466,9 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 <h2 id="week3">Week 3</h2>
 <h3>Leervragen</h3>
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Hoe kan ik ervoor zorgen dat het mergen makkelijker gaat?</li>
+  <li>Hoe zorg ik ervoor dat ik gelijk commit, ik vergeet dit best vaak</li>
+  <li>Hoe kan ik beter gebruik maken van Sveltekit, dit gebruik ik nog niet optimaal</li>
 </ol>
 
 <h3>Week planning van wat ik heb gedaan:</h3>
@@ -480,7 +480,6 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 </ul>
 <h4>Dinsdag</h4>
 <ul>
-  <li></li>
   <li></li>
 </ul>
 <h4>Woensdag</h4>
