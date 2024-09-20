@@ -485,10 +485,13 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 </ul>
 <h4>Woensdag</h4>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Nieuw project gekozen voor sprint 14</li>
+  <li>Ons werk samen gemerged, dit bleek best lastig te zijn, kregen best veel conflicten
+    <ul>
+      <li><a href="https://github.com/fdnd-task/your-tribe-for-life-squad-page/commit/cd43d1a2a6fe9b8c08532d9b2fd8abaab0af01e5">Merge</a></li>
+    </ul>
+  </li>
+  <li>Verder gewerkt aan mijn visitekaartje</li>
 </ul>
 
 
