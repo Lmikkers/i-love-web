@@ -480,7 +480,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 </ul>
 <h4>Dinsdag</h4>
 <ul>
-  <li></li>
+  <li>Verder gewerkt aan squadpage</li>
 </ul>
 <h4>Woensdag</h4>
 <ul>
@@ -554,3 +554,15 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 <h4 id="planningPoker">Planning poker</h4>
 <p>Is een consensus-gebaseerde techniek voor het schatten. Leden van de squad geven schattingen door genummerde kaarten op tafel te leggen of op schrijven zonder hardop te zeggen.<br>Kaarten worden omgedraaid of besproken en de schattingen worden vervolgens gesproken.<br>Zo heb je als team door wat er moet gebeuren en krijg je een goed beeld van je taken.</p>
+
+<h4>Wrap up: over hoe je projecten oplevert </h4>
+<ul>
+  <li>Codeconventies</li>
+  <li>ReadMe</li>
+  <li>Hoe? -> debriefing</li>
+  <li>Live zetten / publiceren</li>
+  <li>Cms uitleg -> readme</li>
+  <li>Huisstijl -> readme/ PDF</li>
+  <li>Gestructureerde code/ semantiek/ tabs/ comments weg / console.log weg</li>
+  <li>Refactor</li>
+</ul>
