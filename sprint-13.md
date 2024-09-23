@@ -496,6 +496,8 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 <ul>
   <li>Visitekaartje laatste puntjes aangewerkt</li>
   <li>I-love-web op de personcard pagina gezet, voor nu even snel erop gezet, wil de styling nog veranderen en een slimme manier vinden hoe ik met de data om kan gaan</li>
+  <li>Met groepje de niveaumatrix besproken.</li>
+  <li><a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/discussions/49">Kampvuursessie</a> gehouden met groepje</li>
   <li>Zie closed issues <a href="https://github.com/Lmikkers/your-tribe-for-life-profile-card/issues?q=is%3Aissue+is%3Aclosed"> link</a></li>
   <li><img width="650" alt="Scherm­afbeelding 2024-09-23 om 09 35 27" src="https://github.com/user-attachments/assets/96e992bf-b4a3-4b92-81aa-59ea199343c1">
 <li><img width="650" alt="Scherm­afbeelding 2024-09-23 om 09 35 38" src="https://github.com/user-attachments/assets/efde7a6d-8637-4711-ba8e-99b305afa0c4"></li>
