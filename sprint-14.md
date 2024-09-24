@@ -1,9 +1,9 @@
 # Sprint 14 | Lose your head
 > I-love-web
 
-- [Week 1](https://github.com/Lmikkers/i-love-web/edit/main/sprint-14.md#week-1)
-- [Week 2](https://github.com/Lmikkers/i-love-web/edit/main/sprint-14.md#week-2)
-- [Week 3](https://github.com/Lmikkers/i-love-web/edit/main/sprint-14.md#week-3)
+- [Week 1](https://github.com/Lmikkers/i-love-web/blob/main/sprint-14.md#week-1)
+- [Week 2](https://github.com/Lmikkers/i-love-web/blob/main/sprint-14.md#week-2)
+- [Week 3](https://github.com/Lmikkers/i-love-web/blob/main/sprint-14.md#week-3)
 
 ## Week 1 
 
