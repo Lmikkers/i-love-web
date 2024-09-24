@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --normalFont: "Roboto", sans-serif;
+    --headerFont: "DM Mono", monospace;
+    --detailFont: "IBM Plex Mono", monospace;
+}
+body {
+    font-family: var(--normalFont)
+}
