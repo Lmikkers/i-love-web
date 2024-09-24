@@ -19,7 +19,7 @@
 - Met ons team hebben we een Teamcanvas ingevuld, zodat we een beter inzicht krijgen in elkaars sterke en zwakke punten, en wat iedereen graag wil leren. [Zie Teamcanvas](https://github.com/orgs/fdnd-agency/projects/3/views/1?pane=issue&itemId=80739668)
 - Wij hebben contact opgenomen met de opdrachgever voor een afspraak voor de debriefing. Daarna hebben wij alvast de debriefing voorbereid.
 
-- Ik ben bezig geweest aan mijn i-love-web, om hiervoor een website te maken, ik had in mijn personcard een opzetje gezet, maar dit ga ik toch voortzetten op deze repo. > [zie oude werk](da41ebb1339794183170e24b81044bd60e547373)
+- Ik ben bezig geweest aan mijn i-love-web, om hiervoor een website te maken, ik had in mijn personcard een opzetje gezet, maar dit ga ik toch voortzetten op deze repo. > [zie oude werk](https://github.com/fdnd-task/your-tribe-for-life-profile-card/commit/4c64d532859e30d72d671c56c3c42c15088ace64) en [live zite](your-tribe-for-life-profile-card-ecru-pi.vercel.app)
 - Ontwerp idee:
   - foto van schets komt hier nog...
   - <img width="623" alt="image" src="https://github.com/user-attachments/assets/614fff6f-bbbd-43f4-9abd-24e2b0d7c4ef">
