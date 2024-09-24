@@ -14,7 +14,7 @@
 
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Hoe je een project opzet met een projectboard gelinkt aan issues
 - Wij zijn begonnen met een nieuw project, [Bieb in bloei](https://github.com/fdnd-agency/buurtcampus-oost), voor de opdrachtgever Buurtcampus Amsterdam Oost. Wij hebben daarvoor uitgezocht  welke repo,  [(1) zie repo](https://github.com/rutgerkock/buurtcampus-oost/tree/release-candidate-bieb-in-bloei) we moeten gebruiken en we hebben het projectboard van Bieb in bloei aangevuld, zie [(2)projectboard ](https://github.com/orgs/fdnd-agency/projects/3/views/1).
 - Met ons team hebben we een Teamcanvas ingevuld, zodat we een beter inzicht krijgen in elkaars sterke en zwakke punten, en wat iedereen graag wil leren. [Zie Teamcanvas](https://github.com/orgs/fdnd-agency/projects/3/views/1?pane=issue&itemId=80739668)
 - Wij hebben contact opgenomen met de opdrachgever voor een afspraak voor de debriefing. Daarna hebben wij alvast de debriefing voorbereid.
@@ -25,17 +25,21 @@
   - <img width="623" alt="image" src="https://github.com/user-attachments/assets/614fff6f-bbbd-43f4-9abd-24e2b0d7c4ef">
 
 #### Dinsdag
-> 👩‍🎓 Wat ik heb geleerd: 
--
--
+> 👩‍🎓 Wat ik heb geleerd: Wat ***DRY*** aanpak ook alweer betekent😅... Dont Repeat Yourself
+- Briefing gehouden met Joost (contact gehad met opdrachtgever), [Zie debriefing 1](https://github.com/orgs/fdnd-agency/projects/3/views/1?pane=issue&itemId=80740722)
+- Codeconvies afgesproken, [Zie codeconvensies](https://github.com/orgs/fdnd-agency/projects/3/views/1?pane=issue&itemId=80742269)
+- Werkzaamheden: Epic > Stories > User-stories > Taken > Planning Poker en MoSCoW, [Zie projectboard](https://github.com/orgs/fdnd-agency/projects/3/views/1)
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
 -
+
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
 -
+
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
