@@ -5,14 +5,14 @@
     let sprintTitle = 'Your tribe for life';
 
     let sprints = [
-    { title: '13', number: 'Your tribe for life' },
-    { title: '14', number: 'Lose your head' },
-    { title: '15', number: 'Choices Choices' },
-    { title: '16', number: 'Don’t repeat your self' },
-    { title: '17', number: 'User needs' },
-    { title: '18', number: 'Release Candidate' },
-    { title: '19', number: 'Free space' },
-    { title: '20', number: 'Final sprint' },
+    { number: '13', title: 'Your tribe for life' },
+    { number: '14', title: 'Lose your head' },
+    { number: '15', title: 'Choices, choices' },
+    { number: '16', title: 'Don’t repeat your self' },
+    { number: '17', title: 'User needs' },
+    { number: '18', title: 'Release Candidate' },
+    { number: '19', title: 'Free space' },
+    { number: '20', title: 'Final sprint' },
   ];
 </script>
 
@@ -25,9 +25,6 @@
         <h2>Sprints</h2>
 
         <section class="sprints">
-            <!-- <Sprint title={sprintTitle} number={sprintNumber} /> -->
-
-            <!-- Itereer over de lijst van sprints en voeg dynamisch meerdere Sprint componenten toe -->
             {#each sprints as sprint (sprint.title)}
                 <Sprint number={sprint.number} title={sprint.title} />
             {/each}
