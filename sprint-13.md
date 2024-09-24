@@ -473,6 +473,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
 
 <h3>Week planning van wat ik heb gedaan:</h3>
 <h4>Maandag</h4>
+> 👩‍🎓 Wat heb ik geleerd: Project management, planning poker en MoSCoW, prioriteiten stellen van taken
 <ul>
   <li>Uitleg gekregen over <a href="#projectManagement">project management</a>, met epics, stories en tasks</li>
   <li>Planning poker gedaan op ons project. Hierdoor hebben we een betere blik gekregen op de taken en hoeveel tijd dit ongeveer gaat kosten. We hebben ze verdeeld in hoogtes van cijfers, in mijn aantekeningen leg ik uit hoe en wat <a href="#planningPoker">planning poker</a> is.</li>
@@ -483,6 +484,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
   <li>Verder gewerkt aan squadpage</li>
 </ul>
 <h4>Woensdag</h4>
+> 👩‍🎓 Wat heb ik geleerd: Hoe je werk moet samen mergen
 <ul>
   <li>Nieuw project gekozen voor sprint 14</li>
   <li>Ons werk samen gemerged, dit bleek best lastig te zijn, kregen best veel conflicten
@@ -493,6 +495,7 @@ In je `page.server.js` kan je data sturen naar deze page bestanden
   <li>Verder gewerkt aan mijn visitekaartje</li>
 </ul>
 <h4>Vrijdag</h4>
+> 👩‍🎓 Wat heb ik geleerd: Hoe ik mijn site live zet via Vercel
 <ul>
   <li>Visitekaartje laatste puntjes aangewerkt</li>
   <li>I-love-web op de personcard pagina gezet, voor nu even snel erop gezet, wil de styling nog veranderen en een slimme manier vinden hoe ik met de data om kan gaan</li>
