@@ -31,9 +31,10 @@
 - Werkzaamheden: Epic > Stories > User-stories > Taken > Planning Poker en MoSCoW, [Zie projectboard](https://github.com/orgs/fdnd-agency/projects/3/views/1)
 
 #### Woensdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe je een datamodel maakt van een website
+- We hebben met ons groepje een Wireframe gemaakt van de webiste Bieb in bloei, we hebben daarna de wireframe verdeeld in statische data en dynamische data. [https://github.com/fdnd-agency/buurtcampus-oost/issues/150](Zie wireframes onder data model)
+- Ook hebben wij een sitemap gemaakt van de website [Zie github](https://github.com/fdnd-agency/buurtcampus-oost/issues/152)
+- We zijn daarna bezig geweest met een data model te maken van de website https://bieb-in-bloei.vercel.app/. [Zie data model](https://github.com/fdnd-agency/buurtcampus-oost/issues/150)
 
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
