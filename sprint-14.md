@@ -8,7 +8,7 @@
 ## Week 1 
 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
+1. Wat is een datamodel en hoe maak je die van een website
 2. Leervraag 2
 3. Leervraag 3
 
