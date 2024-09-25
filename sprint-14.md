@@ -32,7 +32,7 @@
 
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd: Hoe je een datamodel maakt van een website
-- We hebben met ons groepje een Wireframe gemaakt van de webiste Bieb in bloei, we hebben daarna de wireframe verdeeld in statische data en dynamische data. [https://github.com/fdnd-agency/buurtcampus-oost/issues/150](Zie wireframes onder data model)
+- We hebben met ons groepje een Wireframe gemaakt van de webiste Bieb in bloei, we hebben daarna de wireframe verdeeld in statische data en dynamische data. [Zie wireframes onder het data model](https://github.com/fdnd-agency/buurtcampus-oost/issues/150)
 - Ook hebben wij een sitemap gemaakt van de website [Zie github](https://github.com/fdnd-agency/buurtcampus-oost/issues/152)
 - We zijn daarna bezig geweest met een data model te maken van de website https://bieb-in-bloei.vercel.app/. [Zie data model](https://github.com/fdnd-agency/buurtcampus-oost/issues/150)
 
