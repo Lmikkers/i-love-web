@@ -7,7 +7,49 @@
     --normalFont: "Roboto", sans-serif;
     --headerFont: "DM Mono", monospace;
     --detailFont: "IBM Plex Mono", monospace;
+
+    --fontColor: #292929;
+
+    /* color sprints */
+    --sprint13: #2B4176;
+    --sprint13Text: #FF7F3B;
+    --sprint14: #FFE6BA;
+    --sprint14Text: #E42626;
 }
 body {
     font-family: var(--normalFont)
+}
+main {
+    margin: 4rem 3.5rem;
+}
+h1, h2 {
+    font-family: var(--headerFont);
+    text-transform: uppercase;
+}
+h1 {
+    font-size: 2.125rem;
+}
+h2 {
+    font-size: 1.875rem;
+}
+p, a, button {
+    font-size: 1.25rem;
+}
+
+
+/* --- RESPONSIVE --- */
+/* tablet */
+@media (max-width: 768px) {
+    main {
+        margin: 2.5rem 1.5rem;
+    }
+}
+/* iphone */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-size: 1.125rem;
+    }
 }

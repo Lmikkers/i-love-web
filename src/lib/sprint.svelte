@@ -1,15 +1,17 @@
 <script>
     export let number;
     export let title;
+    // For the colors
+    export let style;
 
-    // Splits de titel op woorden
+    // Split title words
     let titleWords = title.split(' ');
 </script>
 
-<article>
-    <h3>{number}</h3>
+<article style={style}>
+    <h4>{number}</h4>
     {#each titleWords as word}
-        <h2>{word}</h2>
+        <h3>{word}</h3>
     {/each}
 </article>
 
@@ -25,20 +27,41 @@
         background: #D9D9D9;
         border-radius: 8px;
         min-height: 15.75rem;
+        
         background-color: #2B4176;
         color: #FF7F3B;
+        transition: ease-out .25s;
+        cursor: pointer;
     }
-    h2, 
-    h3 {
+    article:hover {
+        transform: scale(1.05);
+    }
+    article:nth-child(3n+2) {
+        background-color: #FFE6BA;
+        color: #E42626;
+    }
+    article:nth-child(3n+3) {
+        background-color: #F44336;
+        color: #FFE6BA;
+    }
+    article:nth-child(3n+4) {
+        background-color: lightblue;
+        color: #223FA0;
+    }
+    h3, 
+    h4 {
         font-family: var(--detailFont);
         text-transform: uppercase;
         letter-spacing: .2rem;
         text-align: center;
     }
     h3 {
+        font-size: 1.75rem;
+    }
+    h4 {
         position: absolute;
         top: 1rem;
         left: 1rem;
-        font-size: 2rem;
+        font-size: 2.25rem;
     }
 </style>
