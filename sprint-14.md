@@ -40,9 +40,13 @@
 - We zijn daarna bezig geweest met een data model te maken van de website https://bieb-in-bloei.vercel.app/. [Zie data model](https://github.com/fdnd-agency/buurtcampus-oost/issues/150)
 
 #### Donderdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe je dynamisch data in een component kunt zetten en kunt uitladen
+- Kleuren gekoppelt aan de sprints (component)
+- <img width="623" alt="image" src="https://github.com/user-attachments/assets/362dcfaa-9b43-4a2a-9b27-9fe5293f8c9e">
+- i-love-web live gezet > [https://i-love-web-xi.vercel.app/](https://i-love-web-xi.vercel.app/)
+- Onderzoek gedaan naar Harry > [Zie issue]()
+- <img width="623" alt="image" src="https://github.com/user-attachments/assets/8f77d68a-4b24-4c37-af7c-4eccc03ab6af">
+
 
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
