@@ -44,6 +44,8 @@
 - Kleuren gekoppelt aan de sprints (component)
 - i-love-web live gezet > [https://i-love-web-xi.vercel.app/](https://i-love-web-xi.vercel.app/)
 - Onderzoek gedaan naar Harry > [Zie issue]()
+- <img width="450" alt="image" src="https://github.com/user-attachments/assets/8f77d68a-4b24-4c37-af7c-4eccc03ab6af">
+
 
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
