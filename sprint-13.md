@@ -1,19 +1,17 @@
-<h1>I love WEB sprint 13</h1>
-<ul>
-  <li><a href="#week1">Week 1</a></li>
-  <li><a href="#week2">Week 2</a></li>
-  <li><a href="#week3">Week 3</a></li>
-</ul>
+> I-love-web
 
-<h2 id="week1">Week 1</h2>
-<h3>Leervragen</h3>
-<ol>
-  <li>Hoe kan ik Svelte kit leren en wat is dit? Hoe kan ik hier het beste mee beginnen</li>
-  <li>Hoe kan ik het best een stappenplan maken voor het maken van complexere interacties</li>
-  <li>Hoe kan aan de hand van de  i-love-web, mijn bewijslast goed te laten zien en opslaan</li>
-</ol>
+- [Week 1](https://github.com/Lmikkers/i-love-web/blob/main/sprint-13.md#week-1)
+- [Week 2](https://github.com/Lmikkers/i-love-web/blob/main/sprint-13.md#week-2)
+- [Week 3](https://github.com/Lmikkers/i-love-web/blob/main/sprint-13.md#week-3)
 
-<h3>Week planning van wat ik heb gedaan:</h3>
+## Week 1 
+
+### 👩‍🎓 Leervragen
+1. Hoe kan ik Svelte kit leren en wat is dit? Hoe kan ik hier het beste mee beginnen
+2. Hoe kan ik het best een stappenplan maken voor het maken van complexere interacties
+3. Hoe kan aan de hand van de  i-love-web, mijn bewijslast goed te laten zien en opslaan
+
+### Weekplannig
 <h4>Maandag</h4>
 <ul>
   <li>Squads gemaakt, groepje gevormt met Kaan, Robin, YuJing en Koen</li>
