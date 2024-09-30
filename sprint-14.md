@@ -98,10 +98,9 @@
 -
 
 ### 📝 Aantekeningen | week 2
-> 📅 Maandag 30 sep
 
-## Sveltekit principes 🦆
-> Justus Sturkenboom
+### Sveltekit principes | Justus Sturkenboom
+> 📅 Maandag 30 sep
 
 ### Structure
 src, routes en app.html > moet je hebben voor een `sveltekit` applicatie
@@ -164,7 +163,6 @@ Index.js ->  verzameling van componenten die er zijn
 - Export lijstje
 - Je kan in import componenten opsommen
     - `Import {Header, Footer} from ‘$lib’`
-
 
 ### Components
 De meeste framework projecten ondersteunen componenten.
