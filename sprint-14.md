@@ -49,9 +49,18 @@
 
 
 ### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe je feedback kunt geven aan eerste jaars
+- Vandaag was ik aan de beurt voor het mentorgroepje. Ik ben gaan kijken naar het werk van eerste jaars uit mijn groepje. Er waren maar 2 leerlingen uit mijn groepje en daarvan had er 1 werk gemaakt. 
+- Zie issues die ik heb ingeschoten voor de leerlingen
+  - [Arman Issue 1](https://github.com/ArmanVD/the-client-website/issues/1)
+  - [Arman Issue 2](https://github.com/ArmanVD/the-client-website/issues/1)
+  - [Arman Issue 3](https://github.com/ArmanVD/the-client-website/issues/1)
+- Daarna heb ik naar hun bewijslast in portflow gekeken van Arman en Senne en heb ik feedback gegeven.
+  -  <img width="350" alt="Scherm­afbeelding 2024-09-27 om 12 02 40" src="https://github.com/user-attachments/assets/a5aa8c72-2214-4203-a8c3-9f4dff336a47"><img width="350" alt="Scherm­afbeelding 2024-09-27 om 11 42 29" src="https://github.com/user-attachments/assets/7594f435-46e2-44ca-a8a8-b746924f5a9c">
+  - Vervolgens hebben we met ons bieb-in-bloei groepje feedback gekregen over de opzet van ons project, die best heel aardig was. Enige echte feedback punt was dat we bij het spelen van planning-poker echt een basislijn moeten stellen zodat we op 1 lijn zitten voor de rest van de punten. [Zie issue](https://github.com/rutgerkock/buurtcampus-oost/issues/1)
+
+
+
 
 ### 📝 Aantekeningen | week 1
 
