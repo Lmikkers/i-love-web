@@ -98,6 +98,90 @@
 -
 
 ### 📝 Aantekeningen | week 2
+> 📅 Maandag 30 sep
+
+## Sveltekit principes 🦆
+> Justus Sturkenboom
+
+### Structure
+src, routes en app.html > moet je hebben voor een `sveltekit` applicatie
+- `src`: Staat alles wat `sveltekit` nog moet uitvoeren en nog mee moet doen
+- `static`: Hier hoeft `sveltekit` niks mee (public)
+    - Static bestanden zoals afbeeldingen horen niet in je library (Uitzondering SVG als herbruikbaar component)
+- `lib` -> bibliotheek voor je bestanden
+- `lib/Server.js` ->  Voor inloggegevens bijvoorbeeld of api keys (veilig)
+- `routes`: Staan je pagina’s in + dynamische routes [dynamic routing]
+- `static` bestanden zoals afbeeldingen horen niet in je library (Uitzondering SVG als herbruikbaar component)
+- `.env` -> Geheimen bestanden
+- `.env.example`: API URL, secrets etc -> Stuur je wel naar Github
+- `Package.json`: Pakket om te installeren??
+- `svelte.config.js`-> svelte dingen (adapters bijv.)
+- `vite.config.js` -> build tool?
+- `package.json` -> hoe `sveltekit` draait 
+
+Handig: workbench editor management `VSCode` -> medium zetten zie je src/routes bv extra
+ +layout.svelte: je kunt layouts nesten, layouts handig voor het hergebruiken van pagina’s met andere data die je kan wisselen.
+
+### Routing🦐
+Belangrijk om vanaf het begin een goeie routing te hebben, dit kan met [dynamic] en static 
+
+### Error handling
+- `+error.svelte` -> als echt alles de soep in loopt ga naar error.html, dit staat naast je app.html
+
+### Loading data
+- +page.js
+- +page.server.js -> async verplicht load wordt uitgevoerd moment dat page.svelte geparsed wordt 
+- Om variabelen te gebruiken is export nodig. 
+    - Export let data 
+    - Console.log.(data)
+    - <p>data.foo</p>
+
+- .env
+    - Public api url
+    - API_KEY (topgeheim)
+    - Top voor api’s
+
+- +page.server.js -> 
+    - import { public api url } from ‘$env/static/public’ === best
+- Doe dit met private api key === niet best (server side mag dit wel)dienie im
+
+
+### Binding
+Voorbeeld:
+```
+    <script>
+         let name=  ‘word’
+        $: shout = name + ‘ rocks!’
+    </script>     <input bind:value={name}
+    <h1>Hello {name}</h1>
+```
+- shout = geen bind (bijna logisch) -> reactive
+- $: shout = name + ‘rocks’ ->>>> reactive! 🤯🤯🤯🤯
+
+
+### Library
+Index.js ->  verzameling van componenten die er zijn
+- Export lijstje
+- Je kan in import componenten opsommen
+    - `Import {Header, Footer} from ‘$lib’`
+
+
+### Components
+De meeste framework projecten ondersteunen componenten.
+
+— /routes/+page.svelte
+‹script>
+   import {Component} from '$lib'
+</script>
+
+‹Component answerToLife= {42} />
+
+— /lib/Component.svelte
+< script>
+   export let answerToLife;
+</script>
+
+<p>The answer is {answerToLife}</p>
 
 ***
 
