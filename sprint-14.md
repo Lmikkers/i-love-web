@@ -78,7 +78,7 @@
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
--
+- Docs FDND discussion ingevuld
 -
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
