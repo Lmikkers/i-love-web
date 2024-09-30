@@ -9,8 +9,8 @@
 
 ### 👩‍🎓 Leervragen
 1. Wat is een datamodel en hoe maak je die van een website
-2. Leervraag 2
-3. Leervraag 3
+2. Hoe kan ik medestudenten (jaar 1) het beste feedback geven en issues schrijven
+3. Hoe kan gestructureerd werken in meerdere githubs en 1 projectboard
 
 ### 📅 Weekplanning
 #### Maandag
