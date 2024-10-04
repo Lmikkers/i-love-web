@@ -82,16 +82,27 @@
 - Hoorcollege gehad over [Sveltekit principes](), over Structute, routing, error handling, data loading, library en components.
 - Justus vertelde over een custom error-page pagina (+error.svelte), dit lijkt mij handig om toe te passen in mijn project. Ook vertelde hij over +layout.svelte, dat dit op elke pagina komt, en de tussenruimte met `<slot/>` dit wil ik ook toepassen.
 - Standup gehouden met groepje, [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/2?sort=new)
+
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
 - Ik ben bezig geweest om Harry uit de code te halen en dit te implementeren in ons project. Om er te kijken hoe alles werkt heb ik dit voor nu gedaan in mijn i-love-web pagina.
 - Ik heb van Harry een component gemaakt en werk met `data-mood` om een mood te geven, zodat ik dit kan koppelen aan de bijbehorende `svg`.
-  - Voorbeeldje van Harry: <img width="623" alt="voorbeeld van Harry" src="https://github.com/user-attachments/assets/e5c47748-ed18-4a5c-a2ef-cc02e6cc180c">
+  - Voorbeeldje van Harry: <img width="450" alt="voorbeeld van Harry" src="https://github.com/user-attachments/assets/e5c47748-ed18-4a5c-a2ef-cc02e6cc180c">
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
--
+- Vandaag zijn we bezig geweest met Design Critique, in groepjes van 6 hebben wij elkaar Design Critique gegeven en ontvangen.
+  - [Feedback (1)](https://github.com/Daan645/lose-your-head-the-client-case/issues/10)
+  - [Feedback (2)](https://github.com/lisavanmansom/drop-and-heal/issues/11)
+  - Feedback (3), aan Ellenoor gegeven, hun issues stonden niet aan, dus heb ik het via teams naar haar gestuurd.
+- Ontvangen feedback:
+  - [Feedback accessibility button](https://github.com/fdnd-agency/buurtcampus-oost/issues/136)
+  - [Feedback ontwerp](https://github.com/fdnd-agency/buurtcampus-oost/issues/173)
+- Stand up gedaan [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/3)
+- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA.
+  - <img width="310" alt="Foto van buurtstekjes in de buurtcampus" src="https://github.com/user-attachments/assets/c9796107-f5d9-46a1-b0e4-ca9e9a9779f4">
+  - <img width="310" alt="Foto buurtcampus oost" src="https://github.com/user-attachments/assets/d8a7b935-903a-42ea-8133-69bbf7f6d6c3">
 
--
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
@@ -132,21 +143,21 @@ Belangrijk om vanaf het begin een goeie routing te hebben, dit kan met [dynamic]
 - `+error.svelte` -> als echt alles de soep in loopt ga naar error.html, dit staat naast je app.html
 
 #### Loading data
-- +page.js
-- +page.server.js -> async verplicht load wordt uitgevoerd moment dat page.svelte geparsed wordt 
+- `+page.js`
+- `+page.server.js` -> `async` verplicht load wordt uitgevoerd moment dat `page.svelte` geparsed wordt 
 - Om variabelen te gebruiken is export nodig. 
-    - Export let data 
-    - Console.log.(data)
-    - <p>data.foo</p>
+    - `Export let data` 
+    - `Console.log.(data)`
+    - `<p>data.foo</p>`
 
 - .env
     - Public api url
     - API_KEY (topgeheim)
     - Top voor api’s
 
-- +page.server.js -> 
-    - import { public api url } from ‘$env/static/public’ === best
-- Doe dit met private api key === niet best (server side mag dit wel)dienie im
+- `+page.server.js` -> 
+    - `import { public api url } from ‘$env/static/public’` === best
+- Doe dit met `private api key` === niet best (server side mag dit wel)dienie im
 
 
 #### Binding
@@ -171,6 +182,7 @@ Index.js ->  verzameling van componenten die er zijn
 #### Components
 De meeste framework projecten ondersteunen componenten.
 
+``` js
 — /routes/+page.svelte
 ‹script>
    import {Component} from '$lib'
@@ -182,9 +194,10 @@ De meeste framework projecten ondersteunen componenten.
 < script>
    export let answerToLife;
 </script>
-
+```
+``` html
 <p>The answer is {answerToLife}</p>
-
+```
 ***
 
 
