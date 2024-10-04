@@ -71,7 +71,7 @@
 ## Week 2 
 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
+1. Hoe werk je met branches in github op een branch
 2. Leervraag 2
 3. Leervraag 3
 
@@ -79,7 +79,7 @@
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
 - Docs FDND discussion ingevuld
-- Hoorcollege gehad over [Sveltekit principes](), over Structute, routing, error handling, data loading, library en components.
+- Hoorcollege gehad over [Sveltekit principes](https://github.com/Lmikkers/i-love-web/blob/main/sprint-14.md#sveltekit-principes--justus-sturkenboom), over Structute, routing, error handling, data loading, library en components.
 - Justus vertelde over een custom error-page pagina (+error.svelte), dit lijkt mij handig om toe te passen in mijn project. Ook vertelde hij over +layout.svelte, dat dit op elke pagina komt, en de tussenruimte met `<slot/>` dit wil ik ook toepassen.
 - Standup gehouden met groepje, [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/2?sort=new)
 
