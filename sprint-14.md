@@ -100,7 +100,7 @@
   - [Feedback accessibility button](https://github.com/fdnd-agency/buurtcampus-oost/issues/136)
   - [Feedback ontwerp](https://github.com/fdnd-agency/buurtcampus-oost/issues/173)
 - Stand up gedaan [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/3)
-- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA.
+- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA. We zagen daar ook de stekjesbieb (foto 1) en de geveltuin (was voor de OBA).
   - <img width="310" alt="Foto van buurtstekjes in de buurtcampus" src="https://github.com/user-attachments/assets/c9796107-f5d9-46a1-b0e4-ca9e9a9779f4">
   - <img width="310" alt="Foto buurtcampus oost" src="https://github.com/user-attachments/assets/d8a7b935-903a-42ea-8133-69bbf7f6d6c3">
 
