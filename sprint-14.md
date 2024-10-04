@@ -9,8 +9,8 @@
 
 ### 👩‍🎓 Leervragen
 1. Wat is een datamodel en hoe maak je die van een website
-2. Leervraag 2
-3. Leervraag 3
+2. Hoe kan ik medestudenten (jaar 1) het beste feedback geven en issues schrijven
+3. Hoe kan gestructureerd werken in meerdere githubs en 1 projectboard
 
 ### 📅 Weekplanning
 #### Maandag
@@ -49,9 +49,18 @@
 
 
 ### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe je feedback kunt geven aan eerste jaars
+- Vandaag was ik aan de beurt voor het mentorgroepje. Ik ben gaan kijken naar het werk van eerste jaars uit mijn groepje. Er waren maar 2 leerlingen uit mijn groepje en daarvan had er 1 werk gemaakt. 
+- Zie issues die ik heb ingeschoten voor de leerlingen
+  - [Arman Issue 1](https://github.com/ArmanVD/the-client-website/issues/1)
+  - [Arman Issue 2](https://github.com/ArmanVD/the-client-website/issues/1)
+  - [Arman Issue 3](https://github.com/ArmanVD/the-client-website/issues/1)
+- Daarna heb ik naar hun bewijslast in portflow gekeken van Arman en Senne en heb ik feedback gegeven.
+  -  <img width="350" alt="Scherm­afbeelding 2024-09-27 om 12 02 40" src="https://github.com/user-attachments/assets/a5aa8c72-2214-4203-a8c3-9f4dff336a47"><img width="350" alt="Scherm­afbeelding 2024-09-27 om 11 42 29" src="https://github.com/user-attachments/assets/7594f435-46e2-44ca-a8a8-b746924f5a9c">
+  - Vervolgens hebben we met ons bieb-in-bloei groepje feedback gekregen over de opzet van ons project, die best heel aardig was. Enige echte feedback punt was dat we bij het spelen van planning-poker echt een basislijn moeten stellen zodat we op 1 lijn zitten voor de rest van de punten. [Zie issue](https://github.com/rutgerkock/buurtcampus-oost/issues/1)
+
+
+
 
 ### 📝 Aantekeningen | week 1
 
@@ -62,23 +71,39 @@
 ## Week 2 
 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
+1. Hoe werk je met branches in github op een branch
 2. Leervraag 2
 3. Leervraag 3
 
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Docs FDND discussion ingevuld
+- Hoorcollege gehad over [Sveltekit principes](https://github.com/Lmikkers/i-love-web/blob/main/sprint-14.md#sveltekit-principes--justus-sturkenboom), over Structute, routing, error handling, data loading, library en components.
+- Justus vertelde over een custom error-page pagina (+error.svelte), dit lijkt mij handig om toe te passen in mijn project. Ook vertelde hij over +layout.svelte, dat dit op elke pagina komt, en de tussenruimte met `<slot/>` dit wil ik ook toepassen.
+- Standup gehouden met groepje, [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/2?sort=new)
+
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Ik ben bezig geweest om Harry uit de code te halen en dit te implementeren in ons project. Om er te kijken hoe alles werkt heb ik dit voor nu gedaan in mijn i-love-web pagina.
+- Ik heb van Harry een component gemaakt en werk met `data-mood` om een mood te geven, zodat ik dit kan koppelen aan de bijbehorende `svg`.
+  - Voorbeeldje van Harry:
+  - <img width="320" alt="voorbeeld van Harry" src="https://github.com/user-attachments/assets/e5c47748-ed18-4a5c-a2ef-cc02e6cc180c">
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Vandaag zijn we bezig geweest met Design Critique, in groepjes van 6 hebben wij elkaar Design Critique gegeven en ontvangen.
+  - [Feedback (1)](https://github.com/Daan645/lose-your-head-the-client-case/issues/10)
+  - [Feedback (2)](https://github.com/lisavanmansom/drop-and-heal/issues/11)
+  - Feedback (3), aan Ellenoor gegeven, hun issues stonden niet aan, dus heb ik het via teams naar haar gestuurd.
+- Ontvangen feedback:
+  - [Feedback accessibility button](https://github.com/fdnd-agency/buurtcampus-oost/issues/136)
+  - [Feedback ontwerp](https://github.com/fdnd-agency/buurtcampus-oost/issues/173)
+- Stand up gedaan [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/3)
+- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA.
+  - <img width="310" alt="Foto van buurtstekjes in de buurtcampus" src="https://github.com/user-attachments/assets/c9796107-f5d9-46a1-b0e4-ca9e9a9779f4">
+  - <img width="310" alt="Foto buurtcampus oost" src="https://github.com/user-attachments/assets/d8a7b935-903a-42ea-8133-69bbf7f6d6c3">
+
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
@@ -90,6 +115,90 @@
 
 ### 📝 Aantekeningen | week 2
 
+### Sveltekit principes | Justus Sturkenboom
+> 📅 Maandag 30 sep
+
+#### Structure
+src, routes en app.html > moet je hebben voor een `sveltekit` applicatie
+- `src`: Staat alles wat `sveltekit` nog moet uitvoeren en nog mee moet doen
+- `static`: Hier hoeft `sveltekit` niks mee (public)
+    - Static bestanden zoals afbeeldingen horen niet in je library (Uitzondering SVG als herbruikbaar component)
+- `lib` -> bibliotheek voor je bestanden
+- `lib/Server.js` ->  Voor inloggegevens bijvoorbeeld of api keys (veilig)
+- `routes`: Staan je pagina’s in + dynamische routes [dynamic routing]
+- `static` bestanden zoals afbeeldingen horen niet in je library (Uitzondering SVG als herbruikbaar component)
+- `.env` -> Geheimen bestanden
+- `.env.example`: API URL, secrets etc -> Stuur je wel naar Github
+- `Package.json`: Pakket om te installeren??
+- `svelte.config.js`-> svelte dingen (adapters bijv.)
+- `vite.config.js` -> build tool?
+- `package.json` -> hoe `sveltekit` draait 
+
+Handig: workbench editor management `VSCode` -> medium zetten zie je src/routes bv extra
+ +layout.svelte: je kunt layouts nesten, layouts handig voor het hergebruiken van pagina’s met andere data die je kan wisselen.
+
+#### Routing🦐
+Belangrijk om vanaf het begin een goeie routing te hebben, dit kan met [dynamic] en static 
+
+#### Error handling
+- `+error.svelte` -> als echt alles de soep in loopt ga naar error.html, dit staat naast je app.html
+
+#### Loading data
+- `+page.js`
+- `+page.server.js` -> `async` verplicht load wordt uitgevoerd moment dat `page.svelte` geparsed wordt 
+- Om variabelen te gebruiken is export nodig. 
+    - `Export let data` 
+    - `Console.log.(data)`
+    - `<p>data.foo</p>`
+
+- .env
+    - Public api url
+    - API_KEY (topgeheim)
+    - Top voor api’s
+
+- `+page.server.js` -> 
+    - `import { public api url } from ‘$env/static/public’` === best
+- Doe dit met `private api key` === niet best (server side mag dit wel)dienie im
+
+
+#### Binding
+Voorbeeld:
+```
+    <script>
+         let name=  ‘word’
+        $: shout = name + ‘ rocks!’
+    </script>     <input bind:value={name}
+    <h1>Hello {name}</h1>
+```
+- shout = geen bind (bijna logisch) -> reactive
+- $: shout = name + ‘rocks’ ->>>> reactive! 🤯🤯🤯🤯
+
+
+#### Library
+Index.js ->  verzameling van componenten die er zijn
+- Export lijstje
+- Je kan in import componenten opsommen
+    - `Import {Header, Footer} from ‘$lib’`
+
+#### Components
+De meeste framework projecten ondersteunen componenten.
+
+``` js
+— /routes/+page.svelte
+‹script>
+   import {Component} from '$lib'
+</script>
+
+‹Component answerToLife= {42} />
+
+— /lib/Component.svelte
+< script>
+   export let answerToLife;
+</script>
+```
+``` html
+<p>The answer is {answerToLife}</p>
+```
 ***
 
 
