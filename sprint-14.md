@@ -87,7 +87,8 @@
 > 👩‍🎓 Wat ik heb geleerd:
 - Ik ben bezig geweest om Harry uit de code te halen en dit te implementeren in ons project. Om er te kijken hoe alles werkt heb ik dit voor nu gedaan in mijn i-love-web pagina.
 - Ik heb van Harry een component gemaakt en werk met `data-mood` om een mood te geven, zodat ik dit kan koppelen aan de bijbehorende `svg`.
-  - Voorbeeldje van Harry: <img width="450" alt="voorbeeld van Harry" src="https://github.com/user-attachments/assets/e5c47748-ed18-4a5c-a2ef-cc02e6cc180c">
+  - Voorbeeldje van Harry:
+  - <img width="320" alt="voorbeeld van Harry" src="https://github.com/user-attachments/assets/e5c47748-ed18-4a5c-a2ef-cc02e6cc180c">
 
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
