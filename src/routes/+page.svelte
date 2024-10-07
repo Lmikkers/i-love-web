@@ -39,12 +39,12 @@
 
             <!-- Deze is met de kleuren, kijken of ik dit zo wil implenteren -->
             {#each sprints as sprint, i}
-            <Sprint
-              title={sprint.title}
-              number={sprint.number}
-              style="color: {colors[i % colors.length]};" 
-            />
-          {/each}
+                <Sprint
+                    title={sprint.title}
+                    number={sprint.number}
+                    style="color: {colors[i % colors.length]};" 
+                />
+            {/each}
         </section>
 
     </section>
@@ -54,7 +54,7 @@
 
         <section>
             <aside>
-
+                
             </aside>
             <article>
 
