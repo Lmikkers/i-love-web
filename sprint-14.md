@@ -100,18 +100,26 @@
   - [Feedback accessibility button](https://github.com/fdnd-agency/buurtcampus-oost/issues/136)
   - [Feedback ontwerp](https://github.com/fdnd-agency/buurtcampus-oost/issues/173)
 - Stand up gedaan [Zie standup](https://github.com/rutgerkock/buurtcampus-oost/discussions/3)
-- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA.
+- Naar opdrachgever geweest, daar hebben we de debriefing besproken en eventuele vragen gevraagd. Wij zijn naar de locatie gegaan van de buurtcampus oost OBA. We zagen daar ook de stekjesbieb (foto 1) en de geveltuin (was voor de OBA).
   - <img width="310" alt="Foto van buurtstekjes in de buurtcampus" src="https://github.com/user-attachments/assets/c9796107-f5d9-46a1-b0e4-ca9e9a9779f4">
   - <img width="310" alt="Foto buurtcampus oost" src="https://github.com/user-attachments/assets/d8a7b935-903a-42ea-8133-69bbf7f6d6c3">
 
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Ik ben bezig geweest met nieuwe branches aanmaken, ik liep hier alleen tegen aan, want kreeg niet de code te zien. Heb dit gevraagd aan mijn teamgenoten en bleek dat ik het niet in de goede branch had gedaan
+- Gekeken hoe we Harry leuk in kunnen laden.
+  - Zie Figma bestand foto
+  - <img width="350" alt="Scherm­afbeelding 2024-10-07 om 09 56 27" src="https://github.com/user-attachments/assets/2761a014-bd40-4d32-9fe0-cda31027d1fd">
+  - <img width="350" alt="Scherm­afbeelding 2024-10-07 om 09 56 31" src="https://github.com/user-attachments/assets/8c84aa76-f17a-4c2f-be9a-8331f55afc25">
+
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- [We ♥ Web met Nicolas]() gevolgd
+- De We ♥ Web vond ik erg interessant en leuk om te zien wat je allemaal kunt doen met animaties, hij heeft erg leuke projecten gemaakt, vooral met leuke interacties en animaties.
+- We hebben een Code/Design Review gehouden, wij keken naar het project van DD Agency. Bekijk hieronder de issues die wij hebben ingeschoten.
+  - [Issues voor DD Agency (Voorhoede)](https://github.com/lisagjh/voorhoede/issues)
+- Code/Design Review gehad van Suus en Koop, we hebben vragen gesteld over de temperatuur code en een code probleem. Hiervan hebben we een issue in geschoten.
+  - [Issue Harry toevoegen](https://github.com/fdnd-agency/buurtcampus-oost/issues/182)
 
 ### 📝 Aantekeningen | week 2
 
@@ -201,6 +209,84 @@ De meeste framework projecten ondersteunen componenten.
 ```
 ***
 
+### We ♥ Web met Nicolas Garnier
+- Started developing 2012
+
+#### Wat is een Creative Developer?
+- Fancy term for dev with an eye for creativity
+- Uses all available tools to solve creative and technical issues
+- Websites/apps/installations
+- JS, CSS, WebGL, processing, Unity, GanAi, LLM
+At the core: Code, design, motion and interactivity
+
+#### How can animations & interact help with the web…..
+- Create anticipation and surprise
+- Support the narrative and set the mood
+- Engage the user
+- Solve a design or technical challenge
+
+#### Voorbeeld VITA architecture
+- The design had to follow a specific atmosphere
+- Using animations to show the arch fitting the atmosphere of the website/brand
+- The animations/arch also shows an image/video that fits in the atmosphere 
+- The button next to the arch helps with showing the user the arch is more than just an animation
+- All animations are smooth, that helps with typography and keeping the user content
+- Animations help create playfulness and they will remember the website better after a playful experience
+- Highlighting text with a VoiceOver …..
+- Having text like discover should be used when there is something to discover 
+
+#### Voorbeeld Lief Amsterdam
+- Loading animation example, its a heart, it should beat because that is what a heart does. Little things like this make a website playful/fun.
+- When scrolling there are sliding animations that creates anticipation when scrolling through the website.
+- Highlighting words makes the user focus on words you want to stand out.
+- Text animations in the carrousel (?) references the user to specific places.
+- Small bits of motion like moving icons make a website playful, the user should be able to interact with them, playfulness on a website says something about a brand. 
+- Areas -> sections that bounce 
+    - The map section has a small loader appearing 
+    - Hover animations help the user stay entertained and you can show more content
+- Email input for a newsletter
+    - Show the user something actually worked
+    - When the user enters their email and presses the button they get some feedback from the button showing the arrow pointing downwards, things like this really help the user experience
+
+#### retransfer —> Not live yet
+WePresent x Olafur - Coming soon - with WeTransfer
+- Text animation that slowly reveals the text -> helps with making the user read the text because they get curious
+- The second animation should be a user activated animation, like scrolling through the website
+    - When the user does this they have interacted with the website
+    - Shouldn’t always be full of animations but when you have the freedom
+- Cities have different times —> Show it differently!
+- Bold text animations
+- Use blur in css to reveal things on scroll
+- On the shop page 
+    - Scroll animation so the user can play with the content
+    - When playing the user is more interested in the content
+        - Small detail the further away the content is, the more blurry it is
+        - On hover the blur is completely gone
+- Make sure your animations work because your name is on a website, people relate a broken website with your name.
+
+#### Loer
+- Architecture -> blueprints
+    - Make the entire website look like a blueprint.
+    - Show how the architect draws their project —> You can show that process on the website.
+
+#### berg nog wat website
+- A mountain is 3d, show a 3d image/file on the website so people can relate to the height of a mountain when looking at mountain gear.
+
+#### Client doesn’t like animations —> Alcest
+- They didn’t want to lose the focus, visitors should focus on the art, animations should be subtle
+- Its always a nice touch to make animations subtle
+- In this case the video is the main focus/eyecatcher, the small text animations are just nice, not the focus
+- Opacity is nice?
+- Position sticky, small animations, to keep things organised and stop text in table from overlapping.
+
+#### Conclusion
+- Think of animations and interactions as an extension to an original intent
+- Be open minded
+- Ask yourself what it brings and ask for feedback
+- Be ready to spend a lot of time on it
+
+
+***
 
 ## Week 3 
 
