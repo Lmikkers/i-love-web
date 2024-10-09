@@ -297,9 +297,14 @@ WePresent x Olafur - Coming soon - with WeTransfer
 
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe je data haalt uit Hygraph en dit implementeert in de code
+- Talk gehad van Justus over Project methodiek, over waterfall en agile.
+  - **Waterfall**: Hele uitvoerige project documentatie
+  - **Agile**:
+- In de ochtend eerder naar school gegaan om samen te werken met Rutger voor Harry (plantjes mascotte). Rutger was hiervoor bezig met het weer API en ik met harry in de code zetten. We zijn vandaag bezig geweest om dit samen toe te voegen.
+- We hebben Harry op de homepagina en stekjesdetail pagina toegevoegd. Ook hebben we dit gekoppeld aan de data uit Hygrapgh en hebbenw we een nieuwe data toegevoegd in Hygraph hiervoor (Joost gedaan).
+- Ik ben ook bezig geweest met stekjes pagina collecite, het is nu vollefig klikbaar en ik heb een overlay + hover toegevoegd. 
+  - > [Zie issue](https://github.com/fdnd-agency/buurtcampus-oost/issues/183)
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
