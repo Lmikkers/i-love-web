@@ -311,16 +311,19 @@ WePresent x Olafur - Coming soon - with WeTransfer
 -
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
-- Sprint review voorbereid
--
+- Vandaag hebben we het eerst gehad over hoe we de sprint-review in moeten gaan. Hoe we dingen moeten afronden en hoe we een sprint-review netjes moeten doen en documenteren. Dat hebben we als groepje gedocumenteerd Zie issue (link nog toevoegen)
+- Daarna hebben we mrt mediahuis elkaar van feedback voorzien, we hielden een oefen sprint-review > zie feedback mediahiuis
+
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
+- Branch pullrequest gemaakt en laatste controle gedaan voor de website (link nog toevoegen) 
 - Sprint review met de opdrachtgever.
 -
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Als mentor voor de eerste jaar, ik heb ze geholpen met het maken van een roadmap. In het begin hebben we de DLC’s opgeschreven en daarbij de passende principes en taken. Daarna zijn zij zelfstandig bezig geweest met hun roadmap en zat ik er bij voor vragen
+- Kampvuursessie gehouden met het team > link kampvuursessie
+
 
 ### 📝 Aantekeningen | week 3
 
