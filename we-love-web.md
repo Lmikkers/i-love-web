@@ -37,8 +37,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - Veel kleurtjes en gekke dingen
 - Houdt van Eastereggs 🐣
 
-
-### [Clocks](https://vasilis.nl/clocks/)
+#### [Clocks](https://vasilis.nl/clocks/)
 > Houdt van klokken maken: omdat het beweegt
     
 - [Greek Time](http://www.vasilis.nl/greek-time) &gt; klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
@@ -49,7 +48,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - [Pix Clock/](http://Vasilis.nl/clocks/pix-clock/) -&gt; Toegankelijkheid &gt; hij heeft van elke foto een beschrijving gemaakt voor blinde mensen
 
 
-#### Toegankelijkheid
+### Toegankelijkheid
 - HvA nieuw schoolgebouw ***getest 100% toegankelijk*** , theoretisch, maar is het totaal niet
     - Denk echt na en zorg ervoor dat mensen er echt iets mee kunnen
 - **Screenreader:**
