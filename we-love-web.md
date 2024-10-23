@@ -38,7 +38,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - Houdt van Eastereggs 🐣
 
 
-<h4>Clocks [allemaal klokkies](https://vasilis.nl/clocks/)
+### [Clocks](https://vasilis.nl/clocks/)
 > Houdt van klokken maken: omdat het beweegt
     
 - [Greek Time](http://www.vasilis.nl/greek-time) &gt; klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
