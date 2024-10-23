@@ -11,6 +11,9 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 ## We ❤️ Web met Vasilis van Gemert
 > Toegankelijkheid, creativiteit en klokken
 
+#### 📅 Vrijdag 13 sept
+> 👩‍🎓 Wat ik heb geleerd: Dat je zo vrij kunt zijn in het maken van websites, het kan zo gek niet zijn en je kunt het maken. Lekker experimenteren met nieuwe technologiën of als je iets leuk vind.
+
 ### Achtergrond
 - Opgeleid als kunstenaar
 - Is half Grieks
