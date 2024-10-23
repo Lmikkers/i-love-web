@@ -14,14 +14,92 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 ***
 
 ## We ❤️ Web met Nicolas Garnier
-> Creative developer
+> Creative developer, started developing 2012
+
+### 📅 Vrijdag 04 oktober 
+> 👩‍🎓 Wat ik heb geleerd: Hoe animaties je website/ interacties kunnen verbeteren en dat je daarbij wel rekening moet houden voor toegankelijkheid
+
+### Wat is een Creative Developer?
+- Fancy term for dev with an eye for creativity
+- Uses all available tools to solve creative and technical issues
+- Websites/apps/installations
+- JS, CSS, WebGL, processing, Unity, GanAi, LLM
+At the core: Code, design, motion and interactivity
+
+### How can animations & interact help with the web…..
+- Create anticipation and surprise
+- Support the narrative and set the mood
+- Engage the user
+- Solve a design or technical challenge
+
+#### Voorbeeld VITA architecture
+- The design had to follow a specific atmosphere
+- Using animations to show the arch fitting the atmosphere of the website/brand
+- The animations/arch also shows an image/video that fits in the atmosphere 
+- The button next to the arch helps with showing the user the arch is more than just an animation
+- All animations are smooth, that helps with typography and keeping the user content
+- Animations help create playfulness and they will remember the website better after a playful experience
+- Highlighting text with a VoiceOver …..
+- Having text like discover should be used when there is something to discover 
+
+#### Voorbeeld Lief Amsterdam
+- Loading animation example, its a heart, it should beat because that is what a heart does. Little things like this make a website playful/fun.
+- When scrolling there are sliding animations that creates anticipation when scrolling through the website.
+- Highlighting words makes the user focus on words you want to stand out.
+- Text animations in the carrousel (?) references the user to specific places.
+- Small bits of motion like moving icons make a website playful, the user should be able to interact with them, playfulness on a website says something about a brand. 
+- Areas -> sections that bounce 
+    - The map section has a small loader appearing 
+    - Hover animations help the user stay entertained and you can show more content
+- Email input for a newsletter
+    - Show the user something actually worked
+    - When the user enters their email and presses the button they get some feedback from the button showing the arrow pointing downwards, things like this really help the user experience
+
+#### Wretransfer —> Not live yet
+WePresent x Olafur - Coming soon - with WeTransfer
+- Text animation that slowly reveals the text -> helps with making the user read the text because they get curious
+- The second animation should be a user activated animation, like scrolling through the website
+    - When the user does this they have interacted with the website
+    - Shouldn’t always be full of animations but when you have the freedom
+- Cities have different times —> Show it differently!
+- Bold text animations
+- Use blur in css to reveal things on scroll
+- On the shop page 
+    - Scroll animation so the user can play with the content
+    - When playing the user is more interested in the content
+        - Small detail the further away the content is, the more blurry it is
+        - On hover the blur is completely gone
+- Make sure your animations work because your name is on a website, people relate a broken website with your name.
+
+#### Loer
+- Architecture -> blueprints
+    - Make the entire website look like a blueprint.
+    - Show how the architect draws their project —> You can show that process on the website.
+
+#### berg nog wat website
+- A mountain is 3d, show a 3d image/file on the website so people can relate to the height of a mountain when looking at mountain gear.
+
+#### Client doesn’t like animations —> Alcest
+- They didn’t want to lose the focus, visitors should focus on the art, animations should be subtle
+- Its always a nice touch to make animations subtle
+- In this case the video is the main focus/eyecatcher, the small text animations are just nice, not the focus
+- Opacity is nice?
+- Position sticky, small animations, to keep things organised and stop text in table from overlapping.
+
+### Conclusion
+- Think of animations and interactions as an extension to an original intent
+- Be open minded
+- Ask yourself what it brings and ask for feedback
+- Be ready to spend a lot of time on it
+
 
 ***
 
 ## We ❤️ Web met Dion Pieters 
 > Creative Developer én docent FDND, over zijn portfolio [dionpieters.dev](dionpieters.dev)
 
-📅 Vrijdag 18 oktober
+### 📅 Vrijdag 18 oktober
+> 👩‍🎓 Wat ik heb geleerd: Welke vragen je aan je zelf kunt stellen om het maken van een portfolio gemakkelijker te maken. 
 
 - CMD gestudeerd NERD
 - Afstudeer Stage bij built in Amsterdam (e-commerce)
