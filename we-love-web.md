@@ -1,9 +1,9 @@
 # We ❤️ Web's
 
 ## Inhoud
-- [We ♥ Web | Vasilis van Gemert]()
-- [We ♥ Web | Nicolas Garnier]()
-- [We ♥ Web | Dion Pieters]()
+- [We ♥ Web | Vasilis van Gemert](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-vasilis-van-gemert)
+- [We ♥ Web | Nicolas Garnier](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-nicolas-garnier)
+- [We ♥ Web | Dion Pieters](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-dion-pieters)
 
 ***
 
