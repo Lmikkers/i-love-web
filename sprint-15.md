@@ -3,7 +3,6 @@
 
 - [Week 1](https://github.com/Lmikkers/i-love-web/blob/main/sprint-15.md#week-1)
 - [Week 2](https://github.com/Lmikkers/i-love-web/blob/main/sprint-15.md#week-2)
-- [Week 3](https://github.com/Lmikkers/i-love-web/blob/main/sprint-15.md#week-3)
 
 ## Week 1 
 
