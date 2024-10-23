@@ -135,7 +135,7 @@ En website is geen pdf doe coole dingen op website stilstaande dingen kunnen in 
 
 - Hij laat zien wat zijn skills zijn, veel animaties **VET**
 - Gebouwd met **WEBGL**
-￼<img width="650" alt="Website van Dion met de animaties" src="https://github.com/user-attachments/assets/07bf6dd8-fb2e-4cf5-9b10-45f53215b022">
+- <img width="650" alt="Website van Dion met de animaties" src="https://github.com/user-attachments/assets/07bf6dd8-fb2e-4cf5-9b10-45f53215b022">
 
 
 ### STATEMENTS
