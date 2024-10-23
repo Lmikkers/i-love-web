@@ -32,7 +32,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - Liefde voor onzinnige dingen
 - Poppetjes: 2010, is een lettertype, wat iemand heeft gemaakt &gt; nut van onzin</li>
 
-#### Flipping things [Vasilis/flipping-things](http://www.vasilis.nl/flipping-things)
+#### [Flipping things](http://www.vasilis.nl/flipping-things) 
 - Flipt schilderijen, met achterkant schilderij en voorkant
 - Veel kleurtjes en gekke dingen
 - Houdt van Eastereggs 🐣
@@ -41,12 +41,12 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 <h4>Clocks [allemaal klokkies](https://vasilis.nl/clocks/)
 > Houdt van klokken maken: omdat het beweegt
     
-- [Vasilis/greek-time](http://www.vasilis.nl/greek-time) klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
-- [Vasilis/binary-clock](http://www.vasilis.nl/binary-clock) &gt; nerd klok die telt in binary -&gt; dingen flippen was nieuw toen hij het maakte (3D)
-- [Vasilis/wowclock]("http://www.vasilis.nl/wowclock) -&gt; WOW ⌚️
-- [Vasilis/decimal-clock](http://www.vasilis.nl/decimal-clock)-&gt; moeilijk leesbaar, leuk concept
-- [Vasilis.nl/clocks/hsl-clock/02/](https://vasilis.nl/clocks/hsl-clock/02/)
-- [Vasilis.nl/clocks/pix-clock/](http://Vasilis.nl/clocks/pix-clock/) -&gt; Toegankelijkheid &gt; hij heeft van elke foto een beschrijving gemaakt voor blinde mensen
+- [Greek Time](http://www.vasilis.nl/greek-time) &gt; klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
+- [Binary Clock](http://www.vasilis.nl/binary-clock) &gt; nerd klok die telt in binary -&gt; dingen flippen was nieuw toen hij het maakte (3D)
+- [Wowclock](http://www.vasilis.nl/wowclock) -&gt; WOW ⌚️
+- [Decimal Clock](http://www.vasilis.nl/decimal-clock)-&gt; moeilijk leesbaar, leuk concept
+- [Hsl Clock](https://vasilis.nl/clocks/hsl-clock/02/)
+- [Pix Clock/](http://Vasilis.nl/clocks/pix-clock/) -&gt; Toegankelijkheid &gt; hij heeft van elke foto een beschrijving gemaakt voor blinde mensen
 
 
 #### Toegankelijkheid
