@@ -11,6 +11,55 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 ## We ❤️ Web met Vasilis van Gemert
 > Toegankelijkheid, creativiteit en klokken
 
+### Achtergrond
+- Opgeleid als kunstenaar
+- Is half Grieks
+- Liefde met het web begon omdat ie het tof vond, toffe dingen maken en gratis
+- Kan veel met het web, hij vind web van tegenwoordig erg SAAI
+- Maak toffe dingen en zet er alt teksten bij
+- Doel: laten zien dat je van alles kan maken en creatief kan zijn het web, maar gebruik wel alt tekst bv je kunt het altijd toegankelijk maken
+
+
+### Pagina's die hij heeft gemaakt
+#### Homepage
+- Update zijn website wanneer er iets nieuws uitkomt, zoals animaties, lettertype, css
+- Gemaakt toen Flexbox uitkwam om te experimenteren
+- CSS animaties, nieuw dan zet hij het in zijn website
+
+
+#### Love Nonsense
+- Favoriete website: [lovenonsense.com](https://lovenonsense.com)
+- Liefde voor onzinnige dingen
+- Poppetjes: 2010, is een lettertype, wat iemand heeft gemaakt &gt; nut van onzin</li>
+
+#### Flipping things [Vasilis/flipping-things](http://www.vasilis.nl/flipping-things)
+- Flipt schilderijen, met achterkant schilderij en voorkant
+- Veel kleurtjes en gekke dingen
+- Houdt van Eastereggs 🐣
+
+
+<h4>Clocks [allemaal klokkies](https://vasilis.nl/clocks/)
+> Houdt van klokken maken: omdat het beweegt
+    
+- [Vasilis/greek-time](http://www.vasilis.nl/greek-time) klok die precies de tijd geeft (+/- een uurtje) (daar begon zn onderzoek naar klokken)</li>
+- [Vasilis/binary-clock](http://www.vasilis.nl/binary-clock) &gt; nerd klok die telt in binary -&gt; dingen flippen was nieuw toen hij het maakte (3D)
+- [Vasilis/wowclock]("http://www.vasilis.nl/wowclock) -&gt; WOW ⌚️
+- [Vasilis/decimal-clock](http://www.vasilis.nl/decimal-clock)-&gt; moeilijk leesbaar, leuk concept
+- [Vasilis.nl/clocks/hsl-clock/02/](https://vasilis.nl/clocks/hsl-clock/02/)
+- [Vasilis.nl/clocks/pix-clock/](http://Vasilis.nl/clocks/pix-clock/) -&gt; Toegankelijkheid &gt; hij heeft van elke foto een beschrijving gemaakt voor blinde mensen
+
+
+#### Toegankelijkheid
+- HvA nieuw schoolgebouw ***getest 100% toegankelijk*** , theoretisch, maar is het totaal niet
+    - Denk echt na en zorg ervoor dat mensen er echt iets mee kunnen
+- **Screenreader:**
+    - Leest alle headings op
+    - Houdt het kort voor screenreaders en overzichtelijk
+    - Iconen, goede naam geven
+    - Laat zien dat screenreaders alles op lezen, heel het menu door etc. Duurt erg lang en werkt slecht
+    - Kun je oplossen door bv navigatie weg te halen
+    - Mensen komen voor de content
+
 ***
 
 ## We ❤️ Web met Nicolas Garnier
