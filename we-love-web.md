@@ -16,7 +16,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 ## We ❤️ Web met Nicolas Garnier
 > Creative developer, started developing 2012
 
-### 📅 Vrijdag 04 oktober 
+#### 📅 Vrijdag 04 oktober 
 > 👩‍🎓 Wat ik heb geleerd: Hoe animaties je website/ interacties kunnen verbeteren en dat je daarbij wel rekening moet houden voor toegankelijkheid
 
 ### Wat is een Creative Developer?
@@ -98,7 +98,7 @@ WePresent x Olafur - Coming soon - with WeTransfer
 ## We ❤️ Web met Dion Pieters 
 > Creative Developer én docent FDND, over zijn portfolio [dionpieters.dev](dionpieters.dev)
 
-### 📅 Vrijdag 18 oktober
+#### 📅 Vrijdag 18 oktober
 > 👩‍🎓 Wat ik heb geleerd: Welke vragen je aan je zelf kunt stellen om het maken van een portfolio gemakkelijker te maken. 
 
 - CMD gestudeerd NERD
