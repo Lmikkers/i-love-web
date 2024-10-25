@@ -119,8 +119,7 @@ Tooling geschreven: grafische kaart uitlezen en dat verdelen in gradatie, zo wer
 
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Stagemarkt
 
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
