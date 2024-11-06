@@ -291,9 +291,9 @@ WePresent x Olafur - Coming soon - with WeTransfer
 ## Week 3 
 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
-2. Leervraag 2
-3. Leervraag 3
+1. Hoe haal ik data uit Hygraph en implementeer ik dit in de code?
+2. Hoe zorg ik ervoor dat ik me aan de code conventies houdt, tip?
+3. Hoe stel ik een goede pull request op en wat is nou een goede pull request? 
 
 ### 📅 Weekplanning
 #### Maandag
@@ -305,10 +305,7 @@ WePresent x Olafur - Coming soon - with WeTransfer
 - We hebben Harry op de homepagina en stekjesdetail pagina toegevoegd. Ook hebben we dit gekoppeld aan de data uit Hygrapgh en hebben we een nieuwe data toegevoegd in Hygraph hiervoor (Joost gedaan).
 - Ik ben ook bezig geweest met stekjes pagina collecite, het is nu volledig klikbaar en ik heb een overlay + hover toegevoegd. 
   - > [Zie issue](https://github.com/fdnd-agency/buurtcampus-oost/issues/183)
-#### Dinsdag
-> 👩‍🎓 Wat ik heb geleerd:
-- 
--
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
 - Vandaag hebben we het eerst gehad over hoe we de sprint-review in moeten gaan. Hoe we dingen moeten afronden en hoe we een sprint-review netjes moeten doen en documenteren. Dat hebben we als groepje gedocumenteerd Zie issue (link nog toevoegen)
@@ -326,4 +323,4 @@ WePresent x Olafur - Coming soon - with WeTransfer
 
 
 ### 📝 Aantekeningen | week 3
-
+-
