@@ -13,7 +13,7 @@
 
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Wat techstacks zijn en hoe je kunt bepalen welke je wilt gaan gebruiken
 - Sprintplanning gehad
 - Onderzoek gedaan naar techstacks en overlegd met groepje 
 - Techstack gekozen
@@ -23,11 +23,11 @@
 - Ziek
 
 #### Donderdag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Hoe ik Next JS installeer
 - Geprobeerd Next js te installeren > niet gelukt [Zie issue]()
 -
 ### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Welke vragen je aan jezelf kunt stellen om het maken van een portfolio te verbeteren
 - We love web | Dion Piets | Portfolio
 - Code Design review
 - Portflow check 3.4.3 3.5.2
@@ -108,7 +108,7 @@ Tooling geschreven: grafische kaart uitlezen en dat verdelen in gradatie, zo wer
 
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Hoe ik een betere mentor kan worden
 - Workshop Visualthink
 - Workshop Teamlead
 
@@ -118,18 +118,14 @@ Tooling geschreven: grafische kaart uitlezen en dat verdelen in gradatie, zo wer
 - Portflow aangevuld, voor mezelf een lijst gemaakt met bewijslast
 
 #### Woensdag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Wat voor stage ik ongeveer wil gaan doen
 - Stagemarkt
 
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
-### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
-
+- Aan Nextjs project gewerkt
+- Database proberen te koppelen... lukt niet steeds errors
+- 
 ### 📝 Aantekeningen | week 2
 
 ***
