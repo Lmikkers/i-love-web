@@ -16,7 +16,7 @@
 > 👩‍🎓 Wat ik heb geleerd: Wat techstacks zijn en hoe je kunt bepalen welke je wilt gaan gebruiken
 - Sprintplanning gehad
 - Onderzoek gedaan naar techstacks en overlegd met groepje 
-- Techstack gekozen
+- [Techstack gekozen](https://github.com/Lmikkers/choices-choices-the-tech-stack)
 
 #### Dinsdag & woensdag
 > 👩‍🎓 Wat ik heb geleerd: Als ik ziek ben hoe kan ik zo effectief mogelijk het inhalen
@@ -109,8 +109,8 @@ Tooling geschreven: grafische kaart uitlezen en dat verdelen in gradatie, zo wer
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd: Hoe ik een betere mentor kan worden
-- Workshop Visualthink
-- Workshop Teamlead
+- [Workshop Visualthink ](https://github.com/Lmikkers/schets-je-ontwikkeling-s3)
+- Workshop over Teamlead gehad in onze klas, aantekeningen staan bij notities week 2
 
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd: Hoe NextJS Koppelen van data werkt, maar ook weer niet?
