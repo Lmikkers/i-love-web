@@ -17,6 +17,8 @@
 - Workshop over Component as a Building Block gehad
 - Met groepje gekeken naar welke componenten erzijn
 - Component gekozen > [Zie issue](https://github.com/fdnd-agency/buurtcampus-oost/issues/199)
+- Component analyseren > [Analyseren issue](https://github.com/Lmikkers/component-building-block/issues/1)
+
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd: 
 - Aan mijn Morphological Chart gewerkt
@@ -32,7 +34,7 @@
 
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
--
+- Ik heb een ontwerp gemaakt in Figma over de morphologische kaart > [Zie issue ontwerpen](https://github.com/Lmikkers/component-building-block/issues/2)
 
 ### 📝 Aantekeningen | week 1
 #### Component library (lib)
@@ -47,6 +49,8 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 1. Leervraag 1
 2. Leervraag 2
 3. Leervraag 3
+
+   
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
