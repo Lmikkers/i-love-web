@@ -1,4 +1,4 @@
-# Sprint 15 | Choices, choices
+# Sprint 16 | Don't Repeat Yourself
 > I-love-web
 - [Week 1](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#week-1)
 - [Week 2](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#week-2)
@@ -136,7 +136,9 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
--
+- Ik ben mentor geweest voor de eerste jaar, ik heb met ze meegedaan met de opdracht Gestalt wetten onderzoeken. Ik heb de wet Proximity Law onderzocht. Nawal deed Similarity en Reyhan deed Common Region. Na dat we het hebben onderzocht hebben we het aan elkaar gepresenteerd en uitgelegd hoe je dit in je ontwerp kunt toepassen.
+  - Ik ben gaan kijken hoe ik Proximty Law kan toepassen in bieb in bloei, ik ben gaan kijken naar het formulier, door white space en groepering heb ik het geprobeerd duidelijker te maken voor de gebruiker.
+  - ![image](https://github.com/user-attachments/assets/59583b41-d804-46db-b47c-54e0801a15c9)
 -
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
