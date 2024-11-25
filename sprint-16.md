@@ -46,9 +46,9 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 ***
 ## Week 2 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
-2. Leervraag 2
-3. Leervraag 3
+1. Hoe zet je een project online via Netlify en Svelte?
+2. Hoe weet je wat voor structuut je wilt toepassen in je project?
+3. Hoe kan ik chaos bedwingen in mijn code?
 
    
 ### 📅 Weekplanning
