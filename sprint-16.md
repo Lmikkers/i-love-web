@@ -54,7 +54,7 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
-- Workshop Advanced Component Concepts > [Aantekeningen]()
+- Workshop Advanced Component Concepts [> Aantekeningen](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#advanced-component-concepts)
 - Atomic Design Methode toegepast aan component > [Zie issue]()
 
 #### Dinsdag
