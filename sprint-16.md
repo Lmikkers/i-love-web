@@ -77,7 +77,7 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 > 📅  Ma 18 november 
 ## Advanced Component Concepts
 
-### Svelte 5 > [What’s new in svelte 5](https://vercel.com/blog/whats-new-in-svelte-5)
+> Svelte 5 > [What’s new in svelte 5](https://vercel.com/blog/whats-new-in-svelte-5)
 
 ### Structuur in jouw component library
 - Doe super netjes want je wilt niet slechte dingen herhalen 👍
@@ -125,8 +125,6 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 - Presentational components: UI-specifieke, stalles componenten die bepalen hoe data getoond wordt (bijvoorbeeld een img)
 - Container component: Componenten die de presentational components van data voorzien en hun gedrag bepalen
 - Compositions: Combinatie van containers en presentational components die specifieke pagina-secties vormen.
-
-## Component Library
 
 ***
 
