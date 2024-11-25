@@ -157,6 +157,7 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 > 👩‍🎓 Wat ik heb geleerd:
 -
 -
+
 ### 📝 Aantekeningen | week 3
 ## Law of Proximity:
 📅 25 november | Mentor
@@ -164,28 +165,27 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 > Presenteer aan elkaar hoe je de wet kan gebruiken voor web design.
 
 - Relatie met objecten die dicht bij staan > Zie Google zoek resultaten
-* Proximity = nabijheid
-* Proximity helpt gebruikers informatie sneller en efficiënter te begrijpen en te organiseren.
-
+- **Proximity = nabijheid**
+- Proximity helpt gebruikers informatie sneller en efficiënter te begrijpen en te organiseren.
 
 - White space
-- Heading text dichterbij tekst dan de spacing er tussen
-- Formulier: Related fields together > daardoor kun je beter scannen en makkelijker er doorheen
-* ￼
-* far-away items: Word vaker overheen gekeken (tunnel vision)
-* Gerelateerde items dichtbij en white space gebruiken > Visual Design ++
-* Groeperingen visueel duidelijk maken > bruikbaarheid vergroot, doordat gebruikers snel alleen die UI-elementen kunnen vinden
+- Heading text dichterbij tekst dan de **spacing** er tussen
+- **Formulier:** Related fields together > daardoor kun je beter scannen en makkelijker er doorheen￼
+    - ![image](https://github.com/user-attachments/assets/7a08b585-b900-43d1-a9f4-4d19174b2ec8)
+- **Far-away items:** Word vaker overheen gekeken (tunnel vision)
+- Gerelateerde items dichtbij en white space gebruiken > Visual Design ++
+- Groeperingen visueel duidelijk maken > bruikbaarheid vergroot, doordat gebruikers snel alleen die UI-elementen kunnen vinden
 
 ###  Illustrate the principle of proximity
-* Grids of Objects
-* Lists of Text
-* Shape and Space Dependencies
-*  Full Bleed Elements : Layout structuur geven zodat het brein structuur snel kan waarnemen
-* Typography: Space between
+* `Grids of Objects`
+* `Lists of Text`
+* S`hape and Space Dependencies`
+* `Full Bleed Elements` : Layout structuur geven zodat het brein structuur snel kan waarnemen
+*` Typography`: Space between
 
 
 #### Bronnen
-* lawsofux.com/law-of-proximity
-* Proximity Principle in Visual Design, by Aurora Harley
-* Gestalt Principles of Design — Proximity, by Christopher Butler
+- [lawsofux.com/law-of-proximity](https://lawsofux.com/law-of-proximity/)
+- [Proximity Principle in Visual Design, by Aurora Harley](https://www.nngroup.com/articles/gestalt-proximity/)
+- [Gestalt Principles of Design — Proximity, by Christopher Butler](https://www.chrbutler.com/gestalt-principles-of-design-proximity/)
 
