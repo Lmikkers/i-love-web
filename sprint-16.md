@@ -157,9 +157,9 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 -
 -
 ### 📝 Aantekeningen | week 3
-> 📅 25 november | Mentor
-
 ## Law of Proximity:
+📅 25 november | Mentor
+
 > Presenteer aan elkaar hoe je de wet kan gebruiken voor web design.
 
 - Relatie met objecten die dicht bij staan > Zie Google zoek resultaten
