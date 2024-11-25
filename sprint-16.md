@@ -54,8 +54,9 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Workshop Advanced Component Concepts > [Aantekeningen]()
+- Atomic Design Methode toegepast aan component > [Zie issue]()
+
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
@@ -73,7 +74,62 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 -
 -
 ### 📝 Aantekeningen | week 2
+> 📅  Ma 18 november 
+## Advanced Component Concepts
+
+### Svelte 5 > [What’s new in svelte 5](https://vercel.com/blog/whats-new-in-svelte-5)
+
+### Structuur in jouw component library
+- Doe super netjes want je wilt niet slechte dingen herhalen 👍
+- DRY
+
+### Chaos bedwingen door:…
+> Afspraken (conventies) te maken over
+
+- Naamgeving van componenten
+- Naamgeving van Variaties en componenten
+- Naamgeving van Properties binnen componenten
+- Metanaamgeving: componenten, patronen etc.
+- Indeling $lib folder
+
+#### Metanaamgeving is…
+- Geneste componenten
+- Variaties op componenten
+- Samengestelde componenten
+
+### Structuur
+#### Page-section-component
+- Een volledige pagina, met verschillende sections die bestaan uit componenten.
+
+#### Functional Layering: (Een manier van werken, hoeft niet specifiek zo)
+- Inputs: knoppen, formulieren
+- Display: tabellen, grafieken
+- Navigation: navigatie, menu’s. Breadcrumbs, skip-to-content
+- Structural: Layout elementen die structuur bieden, grids / containers
+
+#### LEGO 🧱 
+- Bricks: Kleine niet herbruikbare stukjes, icoon of tekstblok
+- Blocks: Herbruikbare basis componenten, een knop of een afbeelding
+- Assemblages: Gecombineerde componenten met een specifieke functie, formulier of een kaart
+- Constructions: Complexe pagina-secties of templates, dashboard
+
+#### Atomic Design: Methode om design systeem te creëren 
+- Atoms: label, input, button
+- Molecules: groep atomen bij elkaar, zoekformulier met een label, input en button
+- Organism: groep moleculen die samen een sectie van je website vormen, een header balk met een zoekformulier
+- Templates: een groep organismen die samen een paginatype vormen, een overzichtspagina of detailpagina
+- Pages: ingevuld template met inhoud
+￼
+
+#### Presenter-Container
+- Presentational components: UI-specifieke, stalles componenten die bepalen hoe data getoond wordt (bijvoorbeeld een img)
+- Container component: Componenten die de presentational components van data voorzien en hun gedrag bepalen
+- Compositions: Combinatie van containers en presentational components die specifieke pagina-secties vormen.
+
+## Component Library
+
 ***
+
 ## Week 3 
 ### 👩‍🎓 Leervragen
 1. Leervraag 1
