@@ -137,9 +137,9 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
 - Ik ben mentor geweest voor de eerste jaar, ik heb met ze meegedaan met de opdracht Gestalt wetten onderzoeken. Ik heb de wet Proximity Law onderzocht. Nawal deed Similarity en Reyhan deed Common Region. Na dat we het hebben onderzocht hebben we het aan elkaar gepresenteerd en uitgelegd hoe je dit in je ontwerp kunt toepassen.
-  - Ik ben gaan kijken hoe ik Proximty Law kan toepassen in bieb in bloei, ik ben gaan kijken naar het formulier, door white space en groepering heb ik het geprobeerd duidelijker te maken voor de gebruiker.
+> Ik ben gaan kijken hoe ik Proximty Law kan toepassen in bieb in bloei, ik ben gaan kijken naar het formulier, door white space en groepering heb ik het geprobeerd duidelijker te maken voor de gebruiker.
   - ![image](https://github.com/user-attachments/assets/59583b41-d804-46db-b47c-54e0801a15c9)
--
+- [Aantekeningen Proximity Law]()
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
@@ -157,3 +157,34 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 -
 -
 ### 📝 Aantekeningen | week 3
+> 📅 25 november | Mentor
+
+## Law of Proximity:
+> Presenteer aan elkaar hoe je de wet kan gebruiken voor web design.
+
+- Relatie met objecten die dicht bij staan > Zie Google zoek resultaten
+* Proximity = nabijheid
+* Proximity helpt gebruikers informatie sneller en efficiënter te begrijpen en te organiseren.
+
+
+- White space
+- Heading text dichterbij tekst dan de spacing er tussen
+- Formulier: Related fields together > daardoor kun je beter scannen en makkelijker er doorheen
+* ￼
+* far-away items: Word vaker overheen gekeken (tunnel vision)
+* Gerelateerde items dichtbij en white space gebruiken > Visual Design ++
+* Groeperingen visueel duidelijk maken > bruikbaarheid vergroot, doordat gebruikers snel alleen die UI-elementen kunnen vinden
+
+###  Illustrate the principle of proximity
+* Grids of Objects
+* Lists of Text
+* Shape and Space Dependencies
+*  Full Bleed Elements : Layout structuur geven zodat het brein structuur snel kan waarnemen
+* Typography: Space between
+
+
+#### Bronnen
+* lawsofux.com/law-of-proximity
+* Proximity Principle in Visual Design, by Aurora Harley
+* Gestalt Principles of Design — Proximity, by Christopher Butler
+
