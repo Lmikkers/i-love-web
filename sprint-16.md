@@ -57,18 +57,11 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 - Workshop Advanced Component Concepts [> Aantekeningen](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#advanced-component-concepts)
 - Atomic Design Methode toegepast aan component > [Zie issue]()
 
-#### Dinsdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
 -
-#### Donderdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+
 ### Vrijdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
@@ -77,7 +70,7 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 > 📅  Ma 18 november 
 ## Advanced Component Concepts
 
-> Svelte 5 > [What’s new in svelte 5](https://vercel.com/blog/whats-new-in-svelte-5)
+> Svelte 5 > [What’s new in svelte 5](https://vercel.com/blog/whats-new-in-svelte-5)
 
 ### Structuur in jouw component library
 - Doe super netjes want je wilt niet slechte dingen herhalen 👍
@@ -135,28 +128,34 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 3. Leervraag 3
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Wat Law van Gestalte is
 - Ik ben mentor geweest voor de eerste jaar, ik heb met ze meegedaan met de opdracht Gestalt wetten onderzoeken. Ik heb de wet Proximity Law onderzocht. Nawal deed Similarity en Reyhan deed Common Region. Na dat we het hebben onderzocht hebben we het aan elkaar gepresenteerd en uitgelegd hoe je dit in je ontwerp kunt toepassen.
 > Ik ben gaan kijken hoe ik Proximty Law kan toepassen in bieb in bloei, ik ben gaan kijken naar het formulier, door white space en groepering heb ik het geprobeerd duidelijker te maken voor de gebruiker.
   - ![image](https://github.com/user-attachments/assets/59583b41-d804-46db-b47c-54e0801a15c9)
 - [Aantekeningen Proximity Law](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#law-of-proximity)
+- Ik ben samen met Rutger bezig geweest met een nieuwe Harry ontwerpen > Zie schetsen 
 
 #### Dinsdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Hoe ik zelf een ontwerp maak en dit dan koppel als `svg` en kan `animeren`
+- Verder gewerkt aan Harry en gekoppeld aan de code samen met Rutger
+- We hebben uitgezocht welke code we nog nodig hebben en wat we gaan opschonen, omdat we een ander ontwerp `svg` hebben
+  - Hiervoor hebben we geschetst om duidelijkheid te krijgen
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
 -
 #### Donderdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Dat de opdrachtgever niet alles communiceert dus handig om dit zelf wel te doen als ik iets maak
+- Sprint review met de opdrachtgever gehad > Zie issue
+- We moesten alles gaan mergen naar de main Git van bieb in bloei, dit hebben we met ons groepje gedaan
+  - Zie pullrequest Rutger's git
+  - Zie pullrequest Nazneen's git
+
 ### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
+> 👩‍🎓 Wat ik heb geleerd: Dat ik vaker mijn i love web moet updaten, soms vergeet ik dit en is niet handig
+- Kort gesprek gehad met potentiële stage, nu heb ik dinsdag telefonisch gesprek/ introductie
+- Bewijslast gekeken naar wat ik heb en wat ik in portflow kan zetten
 
 ### 📝 Aantekeningen | week 3
 ## Law of Proximity:
