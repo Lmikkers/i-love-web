@@ -13,11 +13,14 @@
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd:
--
+- Sprint planning User Needs
+- Workshop over scroll-driven animations en het vastleggen van jouw eerste Creative Coding Spike
+- Carousel gedaan en mijn spike gekozen > (Link naar issue)[https://github.com/fdnd-agency/buurtcampus-oost/issues/251]
 
 #### Dinsdag
 > 👩‍🎓 Wat ik heb geleerd: 
-- 
+-
+
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
 - 
