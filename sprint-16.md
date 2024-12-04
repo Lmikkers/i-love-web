@@ -182,7 +182,7 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 * `Full Bleed Elements` : Layout structuur geven zodat het brein structuur snel kan waarnemen
 *` Typography`: Space between
 
-## Toegepast in Bieb in bloei
+### Toegepast in Bieb in bloei
 ![image](https://github.com/user-attachments/assets/b28192a6-faec-4499-b2c3-bdeba252b7ca)
 
 
