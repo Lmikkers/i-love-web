@@ -56,8 +56,9 @@
 -
 #### Woensdag
 > 👩‍🎓 Wat ik heb geleerd:
--
--
+- Workshop Color in webdesign
+   - `Color: Plalevioletred`
+   - `#DB7093, rgb(219, 112, 147), (340.37,59.78%,64.90%)`
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd:
 -
