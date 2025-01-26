@@ -210,3 +210,438 @@ Tooling geschreven: grafische kaart uitlezen en dat verdelen in gradatie, zo wer
 
 
 ***
+
+
+## Kevin van Directus 🗣️💻
+> CHOICES, CHOICES
+
+#### 📅 Vrijdag 04 oktober 
+> 👩‍🎓 Wat ik heb geleerd: Hoe animaties je website/ interacties kunnen verbeteren en dat je daarbij wel rekening moet houden voor toegankelijkheid
+
+
+
+### Thoughts around decision making
+#### Directus
+*   Backend with a customisable UI to give to clients to manipulate data in a database.
+*   Designed help you go quicker -> glue between the database and application
+    *   You could make that yourself, but directus is quick and stable 
+*   At its core its a backend with a UI (You can host it yourself or with directus (at a cost)
+*   Kevin his team is specifically focused 
+    *   on education (what is directus, how to use, enz.), 
+    *   community engagement (opensource on GitHub, a discord server, enz. -> people use/learn about directus ——> more people buy it -> money), 
+    *   extensions in the marketplace (meeting the needs of developers).
+
+*   Directus makes money on 
+    *   hosting, (open-source = creative and maintained by the open-source initiative), 
+    *   directus its license isn’t fully opensource, its open-source unless its makes more then 5m/y.   <— The biggest money maker
+    *   Professional services (advisory hours/consulting, directus+ starter-kits enz.)
+    *   And in the future the directus market place
+
+*   0 offices —> fully remote
+    *   The managed to attract workaholics
+    *   Meetings are most of the times around European mid-to-end of workday
+    *   They are just getting to the point of writing things down.
+        
+
+### _Tradeoffs_ 
+
+*   Can’t have all 3 ever at the same time.
+*   Your clients in the future can only pick 2 of them.
+*   Directus focused a lot on cheap and good, at a business level this meant very slow feature delivery, with a high quality bar. They now are hiring more people, so they can focus on fast and good, but they are spending more. 
+    
+
+### _Perfectionism_
+*   When is something ready to go?!
+*   Sometimes deliver something a little bit less good but in a way shorter time
+    
+
+### _Tech stack selection_
+*   Backend, database, framework, hosting-provider, UI library, enz.
+*   It keeps you be quick when using something you have knowledge about, while that might not be the best system.
+*   Pre-baked components are very quick and easy to use but not (special ?)
+    
+### _Performance vs maintainability_
+*   Code conventions vs shorter code
+    *   Using conventions your code will be longer —> slower but easier to maintain
+    *   Shorter code will be files with less characters —> quicker
+*   At Directus they focus on performance
+*   Tailwind (?) css tooling/utility
+    *   Rijk (?) said tailwind will be quicker but when bringing someone on later they will have to learn something to be able to contribute
+        *   The time you spend extra first making something will be saved when not having to teach every new member to work with something like tailwind.  
+    *   Something like tailwind might fall out of favour
+        
+### _Velocity vs flexibility_
+*   For example when streaming
+    *   You can use OBS, incredibly good but takes a lot of time to setup
+    *   A web-based one, you can use it very easily but you have very limited creative choices
+        
+### _Innovation vs reliability_
+*   Every business has a number of products 
+    *   Money -> product -> more money
+    *   Some products output more money then others 
+*   Every business that wants to be successful long-term should put money in R&D
+    *   Could be a money-pit
+    *   Could become a product that makes a lot of money
+*   This is key in every business 
+    
+
+### _Artificial intelligence (Kevin ins’t a fan of AI at all, not his vibe at all)_
+*   Tradeoffs
+    *   It’s unethical (theft?)
+    *   Environmental effect    
+    *   Cost    
+    *   Accuracy (risks of it being wrong)
+        *   What are the risks of it being wrong?      
+        *   You are responsible for the information you send.
+*   Directus AI
+    *   Very cautious approach 
+    *   Concerns -> 
+        *   they are not an AI company -> focus might shift
+        *   Dependency on third party services 
+    *   Accuracy?
+        *   They don’t analyse data
+        *   They take something and produce something
+            
+
+> _Cost benefit-analysis (Try and compare the cost (Time, effort, money) to the benefit)_
+
+> _SWOT analysis_
+
+> _Weighted decision matrix_
+
+### Directus
+
+*   Its your database and your data
+    
+*   There are better focused CMS’s but they don’t do it all
+    
+*   Speed and cheap (But for a big enterprise its expensive)
+    
+*   People are never looking for directus -> directus is the solution for their problem -> that means directus never excels in something
+    
+*   A data-driven CMS
+    
+    *   Developers love it
+        
+    *   Marketing/managers don’t like it
+        
+*   They try to make features that benefit 80% of the users
+    
+    *   Some decisions about features are revenue driven
+        
+    *   Marketplace offers extensions for extra features.
+        
+
+*   Features/extensions can be added quickly through contractors and be used through the marketplace. 
+    
+    *   A balance between cheap and fast
+        
+    *   Tradeoff -> 
+        
+        *   they aren’t perfect 
+            
+        *   Contractors are a reliability concern/loss
+            
+        *   Contractors are expensive, but flexible
+            
+        *   Management time
+            
+
+The tech you use probably doesn’t matter
+
+*   The end user probably doesn’t care
+    
+
+You are going to make shitty decisions -> own it and make better ones next time 
+
+Root decisions in user needs
+
+*   Stakeholders (developers, finance person (bad performance uses cpu’s, authors, admins, editors)
+    
+*   **The end user their needs are the most important**
+    
+*   Tradeoffs can be made for the stakeholders, not for the end user. 
+    
+    *   End-users don’t care about things like frameworks but the developers and finance person might do care about those choices.
+        
+
+### Questions!
+
+*   Justus: Have you felt imposter syndrome?
+    
+*   Kevin: Yes, but I have reasonable experience (and im a white male?) (Coming back later)
+    
+*   Kevin 45min later: You got this is a personal project of mine. It’s a set of learning videos. [https://yougotthis.io](https://yougotthis.io)  Yes I feel imposter syndrome, hes like if you don’t have imposter syndrome you’re probably not that good and you probably are quite good when you are feeling it. 
+    
+
+*   Amir: Do you use planning poker?
+    
+*   Kevin: You mean what tools do we use to distribute projects? Most of the time we just set a time for a project and it is whether we meet that time or not. We split projects in teams of 3-8 people (Infrastructure, frontend, backend and ……..?) The teams meet once a week. The directors of the teams split up the projects. They are not big enough yet to really need better systems. 
+    
+
+*   Kaan: Do you track the productivity of team members on lines of code?
+    
+*   Kevin: Absolutely not! Lines of code != productivity/quality. The way Kevin manages his team is focused on quarterly goals with black and white deliveries(?), as a team and individual. It’s to celebrate what they managed to do, and if not, why the planning didn’t work, not to punish someone. They work in sprints of 1 week. You make something week 1, the next week someone else reviews it and you get feedback. 
+    
+
+*   Docent (?): Are the teams self-governing?
+    
+*   Kevin: Not really, we have a head of product. 
+    
+    *   For his teams he hires specific people for specific roles. He also likes working with contractors because they don’t spend much time new people.
+        
+    *   I don’t care what time my team works, as long as the week goals are met and the work is done its all good most of the time.
+        
+
+*   Cyd: What would you like to improve in the directus application?
+    
+    *   I know some big things that are coming which im very happy with. Directus currently provides an interface for 1 database, something we are working on is multiple databases in one project and more data sources.
+        
+    *   Blank page problem, when you start with Directus you end up on a blank page and have no idea what you can do. We are trying to fix this with templates. With templates we are helping people get over the blank page.
+        
+
+*   How does a company like Directus gather feedback?
+    
+*   Kevin: From multiple places, most of directus their users will never become customers. 
+    
+    *   Community members <— community engaged customers —> customers
+        
+        *   For customers we meet for feedback (More or less depending on how important they are to directus.
+            
+        *   For community members they give feedback freely, for example issues on GitHub
+            
+        *   For general users/audience, everywhere.
+            
+    *   In the decision on what feedback to work, we work with the 80-20 rule. Also the team their vision for a project.
+
+### Directus tv
+
+*   Streaming platform run by Kevin his team
+    
+*   Directus Academy 
+    
+    *   A guide to all the features of Directus
+        
+    *   45-60min
+        
+    *   Go watch it 
+        
+*   Things you may not know
+    
+    *   Acces control
+        
+    *   Directus connect
+        
+    *   Rest/graphql 
+        
+    *   SDK
+        
+    *   Files manager
+        
+    *   Flows -> automation -> do things when things happen (validate/reject, enz. Or do things afterwards (conformations, enz,) web hooks(view webhooks on platforms, GitHub web hooks example.))
+        
+    *   Dashboard builder -> analyse data + custom themes (for clients their dashboard in a theme)
+        
+    *   Directus realtime
+
+
+***
+
+
+## Shyanta van Triple
+> Techlead bij triple -> onderdeel van hypersolid
+
+7 jaar bij triple, afgestudeerd bij CMD met Justus als begeleider
+
+5/6 jaar development, nu techlead -> nu bij NLZiet, en alles wat daarbij komt kijken.
+
+**Triple | part of hyper solid**
+
+Fancy filmpje met spannende audio lol
+
+Grote bedrijven, polsstart, okido, lotus, max verstappen enz.
+
+Zie: [www.hypersolid.com](http://www.hypersolid.com) 
+
+_Triple_
+
+Bestaat 25 jaar, 250+ mensen in dienst. Inclusief hypersolid ~500+ mensen. 
+
+7 jaar terug zo’n 130 mensen
+
+Core triple:
+
+*   Development
+    
+*   Design
+    
+*   Technical operations (Hosting/monitoren) <- super belangrijk voor centen
+    
+*   Data & insights (Datateam -> verbeteringen, ab-test)
+    
+
+Klanten: Heineken, ajax, PostNL, maxverstappen, Delta, Ziggo, ESPN-NL, Enz. 
+
+_Cultuur Triple_
+
+Mooie dingen maken met mooie mensen
+
+Delen projecten en innovaties, meetups, enz.
+
+Groot innovatieteam.
+
+Lego is overal, zijn lego-nights(?), ‘lijpe star-wars shit’.
+
+Conferenties worden actief opgezocht!
+
+Feesten! -> gezelligheid top, eens in de maand thema feest, funky friday.
+
+**Webteam**
+
+_Over_
+
+*   3 teams
+    
+*   React / Svelte
+    
+*   Afhankelijk van type project
+    
+    *   Bestaat het al? Vaak React -> Dus blijft react
+        
+    *   Nieuw?
+        
+        *   Enkel react als …..
+            
+        *   Meestal svelte
+            
+    *   React native
+        
+    *   Web
+        
+    *   SmartTV
+        
+        *   Gewoon een website
+            
+        *   Niet zo smart (langzaam, oud en weinig geheugen.)
+            
+        *   Svelte
+            
+            *   Lightweight
+                
+            *   Build naar HTML, JS & CSS -> geen grote bundle files
+                
+            *   Betere performance -> nieuwe versies kunnen naar oudere tv’s
+                
+        *   Hoe groter de uitdaging hoe groter het gevoel van overwinning
+            
+
+React native
+
+*   React native
+    
+    *   React basics
+        
+    *   Styling werkt maar ‘wat’ anders
+        
+    *   Mogelijkheid om native componenten te gebruiken
+        
+        *   Date pickers, input, enz.
+            
+        *   Native code kan ook zelf geschreven worden
+            
+    *   Een manier om apps voor beide platformen tegelijk te bouwen met een shared laag.
+        
+    *   Nieuwste competentie -> begonnen met FleuraMetz
+        
+
+_Way of working_
+
+*   Scrum
+    
+    *   Daily standups
+        
+    *   Refinements
+        
+    *   Retrospective
+        
+    *   Sprint review/planning
+        
+    *   Techlead en product owner rol
+        
+
+*   Jira -> ticket management (Lijkt op trello) -> super complex maar kan veel mee 
+    
+*   Git -> code-reviews -> feature branches -> 2x code-review (eentje op project ander iemand die niet op het project werkt)
+    
+*   Conventional commits (dingen categoriseren)
+    
+
+_Tech-stack_
+
+*   Competentie web
+    
+    *   React
+        
+    *   Svelte
+        
+    *   HTML/CSS(scss?)/Typescript(Javascript)
+        
+*   Interne talks over bijv. nieuwe functies/talen -> Kennissessies
+    
+*   Coding guidelines zijn deelbaar over alle competenties/talen (Denk aan noemen van variabelen)
+    
+
+*   Verschillen
+    
+    *   Ander type product
+        
+    *   Elk product heeft zijn verschillen
+        
+        *   Native elementen -> react native
+            
+        *   Support oude browsers -> smart tv
+            
+    *   Elk product heeft andere afhankelijkheden
+        
+        *   API
+            
+        *   Etc, etc
+            
+*   Waarom tech-stack?
+    
+    *   SEO performance
+        
+    *   Machines met weinig performance? 
+        
+    *   Eenmalige website? -> moet je er ooit nog naar omkijken/doorontwikkelen
+        
+    *   Wens voor animaties?
+        
+
+_Tech tips_
+
+*   What does a developer do?
+    
+    *   De hele dag dingen proberen totdat ze werken -> don’t repeat yourself -> je zoekt 1x iets goed uit en zorg dat je het kan hergebruiken 
+        
+        *   Componenten maken in frameworks en hergebruiken!
+            
+        *   Waarom componenten -> je kan er coole dingen mee bouwen -> met al die bouwstenen (componten) kan je een hele hoop websites bouwen.
+            
+        *   Een simpele basis componenten kan je met simpele wijzigingen heel veel doen
+            
+        *   _**Gebruik van componenten is heilig, het framework waarin je giet staat hier los van.**_
+            
+
+_Vragen_
+
+*   Webcomponenten importeren in verschillende frameworks. Webcomponenten zijn framework agnostisch. Native webcomponents zijn zuinig en frameworkloos. 
+    
+*   Typescript puur en alleen laag om te kijken naar je eigen fouten. Handig in groot team met grote projecten, alerts tijdens projecten.
+    
+*   Hoe leer je nieuwe talen? Gooi jezelf in het diepe en je komt wel weer een keer boven water.
+    
+*   Zijn er volledig collega’s volledig remote? Ja, wel echt met senior-collega’s, die weten wanneer ze vragen moeten stellen/contact opzoeken. Probleem met remote is dat je het niet ziet aan iemand als ie vastloopt, nieuwe collega’s willen wij van dat ze naar kantoor komen, zodat we ze kunnen helpen, en zodat ze bekend worden in de bedrijfscultuur.
+
+***
+
