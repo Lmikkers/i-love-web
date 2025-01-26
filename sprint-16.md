@@ -53,19 +53,10 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
    
 ### 📅 Weekplanning
 #### Maandag
-> 👩‍🎓 Wat ik heb geleerd:
+> 👩‍🎓 Wat ik heb geleerd: Hoe je verschillende design methodes kunt toepassen in je component
 - Workshop Advanced Component Concepts [> Aantekeningen](https://github.com/Lmikkers/i-love-web/blob/main/sprint-16.md#advanced-component-concepts)
 - Atomic Design Methode toegepast aan component > [Zie issue]()
 
-#### Woensdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
-
-### Vrijdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
 ### 📝 Aantekeningen | week 2
 > 📅  Ma 18 november 
 ## Advanced Component Concepts
@@ -123,9 +114,10 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 
 ## Week 3 
 ### 👩‍🎓 Leervragen
-1. Leervraag 1
-2. Leervraag 2
-3. Leervraag 3
+1. Wat is de law van gestalte
+2. Hoe pas je proximity law toe in jouw ontwerp
+3. Hoe kun je miscommunicatie voorkomen?
+
 ### 📅 Weekplanning
 #### Maandag
 > 👩‍🎓 Wat ik heb geleerd: Wat Law van Gestalte is
@@ -141,10 +133,6 @@ Een verzameling vooraf gemaakte, geteste en goed gedocumenteerde UI-componenten 
 - We hebben uitgezocht welke code we nog nodig hebben en wat we gaan opschonen, omdat we een ander ontwerp `svg` hebben
   - Hiervoor hebben we geschetst om duidelijkheid te krijgen
 
-#### Woensdag
-> 👩‍🎓 Wat ik heb geleerd:
--
--
 #### Donderdag
 > 👩‍🎓 Wat ik heb geleerd: Dat de opdrachtgever niet alles communiceert dus handig om dit zelf wel te doen als ik iets maak
 - Sprint review met de opdrachtgever gehad > Zie issue
