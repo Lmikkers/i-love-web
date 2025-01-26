@@ -5,7 +5,8 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - [We ♥ Web | Vasilis van Gemert](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-vasilis-van-gemert)
 - [We ♥ Web | Nicolas Garnier](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-nicolas-garnier)
 - [We ♥ Web | Dion Pieters](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-dion-pieters)
-
+- [Directus | Kevin](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#kevin-van-directus-%EF%B8%8F)
+- [Triple Shyanta]()
 ***
 
 ## We ❤️ Web met Vasilis van Gemert
@@ -451,19 +452,16 @@ Root decisions in user needs
 ## Shyanta van Triple
 > Techlead bij triple -> onderdeel van hypersolid
 
-7 jaar bij triple, afgestudeerd bij CMD met Justus als begeleider
-
-5/6 jaar development, nu techlead -> nu bij NLZiet, en alles wat daarbij komt kijken.
+- 7 jaar bij triple, afgestudeerd bij CMD met Justus als begeleider
+- 5/6 jaar development, nu techlead -> nu bij NLZiet, en alles wat daarbij komt kijken.
 
 **Triple | part of hyper solid**
+- Fancy filmpje met spannende audio
+- Grote bedrijven, polsstart, okido, lotus, max verstappen enz.
 
-Fancy filmpje met spannende audio lol
+> Zie: [www.hypersolid.com](http://www.hypersolid.com) 
 
-Grote bedrijven, polsstart, okido, lotus, max verstappen enz.
-
-Zie: [www.hypersolid.com](http://www.hypersolid.com) 
-
-_Triple_
+### _Triple_
 
 Bestaat 25 jaar, 250+ mensen in dienst. Inclusief hypersolid ~500+ mensen. 
 
@@ -480,25 +478,19 @@ Core triple:
 *   Data & insights (Datateam -> verbeteringen, ab-test)
     
 
-Klanten: Heineken, ajax, PostNL, maxverstappen, Delta, Ziggo, ESPN-NL, Enz. 
+###  Klanten: Heineken, ajax, PostNL, maxverstappen, Delta, Ziggo, ESPN-NL, Enz. 
 
-_Cultuur Triple_
-
-Mooie dingen maken met mooie mensen
-
-Delen projecten en innovaties, meetups, enz.
-
-Groot innovatieteam.
-
-Lego is overal, zijn lego-nights(?), ‘lijpe star-wars shit’.
-
-Conferenties worden actief opgezocht!
-
-Feesten! -> gezelligheid top, eens in de maand thema feest, funky friday.
+###  _Cultuur Triple_
+- Mooie dingen maken met mooie mensen
+- Delen projecten en innovaties, meetups, enz.
+- Groot innovatieteam
+- Lego is overal, zijn lego-nights(?), ‘lijpe star-wars shit’.
+- Conferenties worden actief opgezocht!
+- Feesten! -> gezelligheid top, eens in de maand thema feest, funky friday.
 
 **Webteam**
 
-_Over_
+### _Over_
 
 *   3 teams
     
@@ -535,7 +527,7 @@ _Over_
         *   Hoe groter de uitdaging hoe groter het gevoel van overwinning
             
 
-React native
+### React native
 
 *   React native
     
@@ -554,7 +546,7 @@ React native
     *   Nieuwste competentie -> begonnen met FleuraMetz
         
 
-_Way of working_
+### _Way of working_
 
 *   Scrum
     
@@ -576,7 +568,7 @@ _Way of working_
 *   Conventional commits (dingen categoriseren)
     
 
-_Tech-stack_
+### _Tech-stack_
 
 *   Competentie web
     
@@ -618,7 +610,7 @@ _Tech-stack_
     *   Wens voor animaties?
         
 
-_Tech tips_
+### _Tech tips_
 
 *   What does a developer do?
     
@@ -633,7 +625,7 @@ _Tech tips_
         *   _**Gebruik van componenten is heilig, het framework waarin je giet staat hier los van.**_
             
 
-_Vragen_
+### _Vragen_
 
 *   Webcomponenten importeren in verschillende frameworks. Webcomponenten zijn framework agnostisch. Native webcomponents zijn zuinig en frameworkloos. 
     
