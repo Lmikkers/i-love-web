@@ -637,3 +637,65 @@ Core triple:
 
 ***
 
+ 
+## Beyond Tweening GSAP
+> Cassie Evans | 7 maart
+
+**GSAP** = Animation library > To animate everything	
+
+**GSAP Community:**
+- gsap.com
+
+### GSAP useful:
+- Library extentive very featured
+- Tweens: good for animations
+    - Timeline: To sequence a lot of animations (tweens)
+- Fun eases
+- A lot of plugins
+- Scroll pluggings (most populair)
+- SVG pluggings
+
+> GSAP = animation Toolbox 🛠️
+
+"People using tweens for everything -> but there is so much more (like timeline)"
+
+#### quickSetter()
+- Cursor folo wers
+- Values updated
+- Good for performance
+
+#### GSAP Utils (utility methods)
+- `utils.random()`
+    - `gsap.utils.random(-100, 100);`
+    - Randomness in animations more a life
+- `utils.mapRange()`
+    - Coordinate mapping with GSAP utils
+- `utils.wrap()`
+    - Wrap around the values
+    - Modifiers: { windowWrap() }
+- `utils.pipe()`
+    - Clamp 
+
+### Easing
+“Let the ease do the work”
+- Most important bit of animations
+- U can do a lot of stuff with easing
+- Ease library -> Ease visualizer
+- Example: ease: “rough” -> glitch effect
+
+Useful stuff matchMedia
+- matchMedia() -> mediaQueries like css
+- `let mm = gsap.matchMedia()`
+    - mm.add({     isDektop: ‘(min-width: ${breakPoint}px)’     reduceMotion: “(prefers-reduced-motion: reduce)” })
+
+### Control methods
+- play() pause(), resume(), reverse(,)restart()
+- draggable()
+- progress()
+
+### Helper Functions
+They keep adding relevant helper functions 
+- Horizontally scroll section (container animation)
+- motion path helper
+
+
