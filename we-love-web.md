@@ -7,6 +7,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - [We ♥ Web | Dion Pieters](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-dion-pieters)
 - [Directus | Kevin](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#kevin-van-directus-%EF%B8%8F)
 - [Triple Shyanta](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#shyanta-van-triple)
+- [We ♥ Web | Cassie Evans](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#beyond-tweening-gsap)
 ***
 
 ## We ❤️ Web met Vasilis van Gemert
@@ -637,8 +638,8 @@ Core triple:
 
 ***
 
- 
-## Beyond Tweening GSAP
+## We ❤️ Web met Cassie Evans
+### Beyond Tweening GSAP
 > Cassie Evans | 7 maart
 
 **GSAP** = Animation library > To animate everything	
