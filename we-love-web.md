@@ -8,6 +8,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - [Directus | Kevin](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#kevin-van-directus-%EF%B8%8F)
 - [Triple Shyanta](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#shyanta-van-triple)
 - [We ♥ Web | Cassie Evans](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#beyond-tweening-gsap)
+- [We ♥ Web | Ischa Schiphol](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-ischa-schiphol-accessibility)
 ***
 
 ## We ❤️ Web met Vasilis van Gemert
