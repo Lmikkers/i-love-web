@@ -700,3 +700,38 @@ They keep adding relevant helper functions
 - motion path helper
 
 
+***
+
+# We ❤️ Web met Ischa Schiphol Accessibility 
+> Ischa over toegankelijkheid
+
+### Screenreader
+-> Linkjes een goeie naam geven, product link bijvoorbeeld niet voldoende
+
+“This is for everyone” - Tim Berners-Lee
+
+> Onwetendheid in hoeveel mensen daadwerkelijk een bederink hebben
+-> 100% heeft een beperking
+
+### Beperkingen
+- Visueel:, je ziet het scherm niet door zon
+- Motorisch: rijdende auto hobbelde weg
+- Auditief: als het druk is > is ondertiteling fijn
+- Cognitief: Autisme, ADHD, ADD etc
+- Moe: gebrek aan focus
+- Oud: Geldt eigenlijk alles
+
+### Tips:
+1. Gebruik correcte HTML
+2. Koppel structuur -> zorg dat het correct is
+3. Lees meer links -> zorg dat links wat over de tekst zetten, bijvoorbeeld span met class viusallyhidden
+4. Focus styles 
+5. Contrast -> zorg voor een goed kleuren-contrast
+    1. Kleuren die vaak probleem zorgen:
+        1. Blauw
+        2. Groen
+        3. Oranje
+6. Tip: Doe dingen samen met mensen met een beperking 
+    1. Vaak voldoet het wel aan de eigen, maar kun je soms tot betere ideeën komen door dit door iemand te laten testen met iemand met een beperking
+7. Tanaguru Contrast Finder
+
