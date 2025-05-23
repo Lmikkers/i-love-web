@@ -9,6 +9,7 @@ Hierin documenteer ik alle we <3 Web's die ik heb gevolgd :).
 - [Triple Shyanta](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#shyanta-van-triple)
 - [We ♥ Web | Cassie Evans](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#beyond-tweening-gsap)
 - [We ♥ Web | Ischa Schiphol](https://github.com/Lmikkers/i-love-web/blob/main/we-love-web.md#we-%EF%B8%8F-web-met-ischa-schiphol-accessibility)
+- [We <3 Web] | 
 ***
 
 ## We ❤️ Web met Vasilis van Gemert
@@ -735,4 +736,80 @@ They keep adding relevant helper functions
 6. Tip: Doe dingen samen met mensen met een beperking 
     1. Vaak voldoet het wel aan de eigen, maar kun je soms tot betere ideeën komen door dit door iemand te laten testen met iemand met een beperking
 7. Tanaguru Contrast Finder
+
+
+***
+
+
+# We <3 Web | Resilience
+>  Niels Leenheer
+
+### Tim Burners Lee
+WWEB = World Wide Web
+- Browser en een editor
+
+#### WWW
+Als browser iets niet kent negeert ie dat
+- Maar Staat wel in de DOM
+- Is een Element geworden
+
+#### `<noscript>`
+- Een tag functie: alles wat in tag staat negeren
+- Wordt niet gerenderd
+    - Komt in de `DOM` maar niet zichtbaar
+
+#### Basis principes HTML
+    - Forward en Backward compatibilty
+`<blink>`
+- Tag dat zorgt dat je tekst knippert
+    - Wordt niet meer ondersteund 
+`<marquee>`
+- Tag uit jaren 90 -> wordt nog ondersteund
+
+### HTML is for EVERYONE
+- Iedereen mag fouten maken
+
+
+***
+
+
+# We <3 Web | Emotional Interface
+> 📅 23/05/25
+
+## Kalok Yeung
+> Designer
+
+#### What’s oxytocine?
+- Stofje wat vrij komt als je een gelukshormoon
+
+### Hoe zorg je ervoor dat gebruikers een goeie verbinding krijgen met je website
+- Digitale connectie
+
+### How To Bond?
+
+#### 1. Soft UI 
+- Liever, accessible 
+- Subtiel 
+- Afgerond, ronde hoeken, wit ruimte 
+
+#### 2. Motion 
+- Moet iets toevoegen aan de web experience, niet als decoratie, of moet echt iets toevoegen aan de brand 
+- Physics toevoegen aan de website (natuurlijk effect) 
+
+#### 3. Sound 
+- Subtiele geluidjes kunnen helpen om gevoel te creëren in de website en voor de gebruiker 
+- Geluidjes koppelen ze aan de website (zorgt voor bonding) 
+- jazz keys -> voorbeeld website 
+
+#### 4. Content 
+- Hoe binden door middel van content? 
+- Hoe lezen mensen iets? -> Dat implementeren in de website (zoals chat ofz) 
+- Conversational interface (mensen zijn dan eerder geneigd) 
+- Iets complex makkelijker te begrijpen maken 
+
+#### Tips:
+- Hergebruik - Geeft een fluïde web experience 
+- Consistentie toevoegen aan je design 
+- In componenten en varianten werken
+
 
