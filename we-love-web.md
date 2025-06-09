@@ -776,7 +776,7 @@ Als browser iets niet kent negeert ie dat
 # We <3 Web | Emotional Interface
 > 📅 23/05/25
 
-## Kalok Yeung
+## [Kalok Yeung](https://kalokyeung.com/)
 > Designer
 
 #### What’s oxytocine?
