@@ -50,3 +50,24 @@ Dit kun je doen door:
   content: "😌" / "Dit is een smiley die aan het relaxen is"
 }
 ```
+
+***
+
+## Trends
+### `Apple` Liquid Glass
+Nieuwe design van Apple is bekend, `liquid glass`. 
+- [Introductie apple liquid glass ](https://www.apple.com/nl/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/)
+![image](https://github.com/user-attachments/assets/1d375d06-e2d7-40b6-bca6-3c8c29822964)
+- Ik vind het er wel leuk uitzien, alleen zoals de foto hierboven vind ik het erg eentonig. Vraag me ook af of dit voor toegankelijkheid wel goed is? Aangezien heel veel wegvalt en dezelfde kleuren zijn. Maar denk dat Apple hier wel iets voor heeft gevonden.
+
+![image](https://github.com/user-attachments/assets/1807d90e-422f-4fa9-9c69-3af92aed11f8)
+- Ik vind glas effect wel wat hebben in het menu balkje, ook met scrollen ziet dit er leuk uit, speels. In safari ook goeie oplossing, hierdoor zie je meer van de pagina.
+
+- **Design concept**: `Skeuomorphism`
+> **Skeuomorphism** digital interfaces mimic real-world objects, using visual cues like texture, shadows, and shapes to make them feel familiar and intuitive to users
+
+**Linkjes**
+- [Adopting liquid glass](https://developer.apple.com/documentation/technologyoverviews/adopting-liquid-glass)
+- [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines)
+- [🎥 Meet Liquid Glass | Apple](https://m.youtube.com/watch?v=IrGYUq1mklk)
+- [🎥 Get to know the new design system | Apple](https://m.youtube.com/watch?v=DS2ildqCrB0)
